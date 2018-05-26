@@ -15,6 +15,8 @@ Many thanks to all the chess programming community for being so kind and interes
 
 *Weini* is quite slow, move validation and attack detection are still more bullet proof than optimized ...
 
+Only releases (just before or after HGM montly tournament) are available here : https://github.com/tryingsomestuff/Weini/releases
+
 * Multi-threads (lazySMP)
 * alpha-beta framework (negamax)  
     * PVS (root and alpha-beta)  
