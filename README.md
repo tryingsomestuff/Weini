@@ -1,5 +1,5 @@
-#WEINI chess engine  
-##WisEness Is Not Inside  
+# WEINI chess engine  
+## WisEness Is Not Inside  
 
 * alpha-beta framework (negamax)  
     * PVS (root and alpha-beta)  
