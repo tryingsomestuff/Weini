@@ -1,8 +1,12 @@
 # Weini chess engine  
 ## WisEness Is Not Inside  
 
+Project started : december 2016
+Language : C++11
+Compiles on both Linux (CMake, no dependency) and Windows (Visual Studio 17)
+
 *Weini* is the chess engine I develop just for fun and learn about chess programming.
-At lots of ideas are taken from _chessprogramming wiki_ and _talkchess_ forum. 
+A lots of ideas are taken from _chessprogramming wiki_ and _talkchess_ forum. 
 Many thanks to all the chess programming community for being so kind and interesseting.
 
 *Weini* is still under development and testing and not all the implemented features are validated.
