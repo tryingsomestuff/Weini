@@ -1,6 +1,17 @@
-# WEINI chess engine  
+# Weini chess engine  
 ## WisEness Is Not Inside  
 
+*Weini* is the chess engine I develop just for fun and learn about chess programming.
+At lots of ideas are taken from _chessprogramming wiki_ and _talkchess_ forum. 
+Many thanks to all the chess programming community for being so kind and interesseting.
+
+*Weini* is still under development and testing and not all the implemented features are validated.
+
+*Weini* comes with a tunable configuration file (in json), and with good logging features. 
+
+*Weini* is quite slow, move validation and attack detection are still more bullet proof than optimized ...
+
+* Multi-threads (lazySMP)
 * alpha-beta framework (negamax)  
     * PVS (root and alpha-beta)  
     * Aspiration window  
