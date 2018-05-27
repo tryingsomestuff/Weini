@@ -84,5 +84,5 @@ Only releases (just before or after HGM monthly tournament) are available here :
     * XBOARD (partial)  
     * UCI (partial)
 
-Available lichess BOT
+Available lichess BOT : https://lichess.org/@/weini
 
