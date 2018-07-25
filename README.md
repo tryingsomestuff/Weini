@@ -86,3 +86,12 @@ Only releases (just before or after HGM monthly tournament) are available here :
 
 Available lichess BOT : https://lichess.org/@/weini
 
+## How to compile
+
+Use CMake to compile. Or build the command line yourself, something like `g++ src/*.cpp -Iheader/ --std=c++11 -msse4.2 -O3 -mpopcnt` or any optimization you think shall be profitable ...
+
+As been built on linux (g++ >= 4.8, clang) and Windows (visual studio >=17, or last version of cygwin).
+
+## How to run
+
+`weini -xboard` in your favorite GUI (Xboard/Winboard for example).
