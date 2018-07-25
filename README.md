@@ -88,7 +88,7 @@ Available lichess BOT : https://lichess.org/@/weini
 
 ## How to compile
 
-Use CMake to compile. Or build the command line yourself, something like `g++ src/*.cpp -Iheader/ --std=c++11 -msse4.2 -O3 -mpopcnt` or any optimization you think shall be profitable ...
+Use CMake to compile. Or build the command line yourself, something like `g++ src/*.cpp -Iheader/ --std=c++11 -msse4.2 -O3 -mpopcnt -o weini` or any optimization you think shall be profitable ...
 
 As been built on linux (g++ >= 4.8, clang) and Windows (visual studio >=17, or last version of cygwin).
 
