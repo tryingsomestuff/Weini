@@ -1,0 +1,14 @@
+[
+{
+    "command" : "/media/BK1/www/p/chessEngine/weini/bin/weini",
+    "name" : "Weini",
+    "protocol" : "xboard",
+    "workingDirectory" : "/media/BK1/www/p/chessEngine/weini/bin"
+},
+{
+    "command" : "/usr/games/fairymax",
+    "name" : "fairy-max",
+    "protocol" : "xboard",
+    "workingDirectory" : "/usr/games/"
+}
+]

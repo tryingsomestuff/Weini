@@ -1,0 +1,9844 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "From's Gambit"]
+[Result "*"]
+[ECO "A02"]
+[PlyCount "3"]
+
+1. f4 e5 2. fxe5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bird's Opening"]
+[Result "*"]
+[ECO "A03"]
+[PlyCount "10"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 g6 4. Be2 Bg7 5. O-O O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bird's Opening"]
+[Result "*"]
+[ECO "A03"]
+[PlyCount "10"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 g6 4. Be2 Bg7 5. O-O O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bird's Opening"]
+[Result "*"]
+[ECO "A03"]
+[PlyCount "11"]
+
+1. f4 d5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. d3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bird's Opening"]
+[Result "*"]
+[ECO "A03"]
+[PlyCount "15"]
+
+1. f4 d5 2. Nf3 Nf6 3. b3 g6 4. Bb2 Bg7 5. e3 O-O 6. Be2 c5 7. O-O Nc6 8. Ne5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Lisitsin Gambit"]
+[Result "*"]
+[ECO "A04"]
+[PlyCount "3"]
+
+1. Nf3 f5 2. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Reti Opening"]
+[Result "*"]
+[ECO "A05"]
+[PlyCount "11"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d6 6. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Reti Opening"]
+[Result "*"]
+[ECO "A05"]
+[PlyCount "10"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Reti Opening"]
+[Result "*"]
+[ECO "A05"]
+[PlyCount "10"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "English Opening"]
+[Result "*"]
+[ECO "A15"]
+[PlyCount "12"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d6 6. c4 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "English Opening"]
+[Result "*"]
+[ECO "A15"]
+[PlyCount "12"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d6 6. c4 e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Reti Opening"]
+[Result "*"]
+[ECO "A15"]
+[PlyCount "11"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d6 6. c4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "English"]
+[Result "*"]
+[ECO "A22"]
+[PlyCount "10"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "English"]
+[Result "*"]
+[ECO "A22"]
+[PlyCount "10"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Be6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "English"]
+[Result "*"]
+[ECO "A22"]
+[PlyCount "11"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nxc3 6. bxc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "English"]
+[Result "*"]
+[ECO "A22"]
+[PlyCount "6"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bb4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "English"]
+[Result "*"]
+[ECO "A22"]
+[PlyCount "9"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "English"]
+[Result "*"]
+[ECO "A28"]
+[PlyCount "9"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "English"]
+[Result "*"]
+[ECO "A28"]
+[PlyCount "9"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Nd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "English"]
+[Result "*"]
+[ECO "A28"]
+[PlyCount "10"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bc5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "English"]
+[Result "*"]
+[ECO "A28"]
+[PlyCount "11"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Bg5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "English"]
+[Result "*"]
+[ECO "A29"]
+[PlyCount "11"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Nd4 5. Bg2 Nxf3+ 6. Bxf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "English, Four Knights"]
+[Result "*"]
+[ECO "A29"]
+[PlyCount "6"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Symmetrical English, Hedgehog"]
+[Result "*"]
+[ECO "A30"]
+[PlyCount "19"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. Re1 d6 8. e4
+Nbd7 9. d4 cxd4 10. Nxd4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Symmetrical English, Hedgehog"]
+[Result "*"]
+[ECO "A30"]
+[PlyCount "18"]
+
+1. c4 c5 2. Nf3 Nf6 3. g3 b6 4. Bg2 Bb7 5. Nc3 e6 6. O-O Be7 7. d4 cxd4 8. Qxd4
+d6 9. Rd1 a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Symmetrical English, Hedgehog"]
+[Result "*"]
+[ECO "A30"]
+[PlyCount "13"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Symmetrical English, Hedgehog"]
+[Result "*"]
+[ECO "A30"]
+[PlyCount "20"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. Re1 d6 8. e4 a6
+9. d4 cxd4 10. Nxd4 Qc7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "A32"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. Nc3 cxd4 5. Nxd4 Bb4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "A32"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. Nc3 cxd4 5. Nxd4 a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "A32"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. g3 cxd4 5. Nxd4 Bb4+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "A32"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. g3 cxd4 5. Nxd4 Qc7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "A32"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. g3 cxd4 5. Nxd4 Nc6 6. Bg2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "A34"]
+[PlyCount "6"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "A34"]
+[PlyCount "9"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. e3 Nc6 5. d4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Englund Gambit"]
+[Result "*"]
+[ECO "A40"]
+[PlyCount "6"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "A40"]
+[PlyCount "2"]
+
+1. d4 a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Trompowsky Attack"]
+[Result "*"]
+[ECO "A45"]
+[PlyCount "7"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. f3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Trompowsky Attack"]
+[Result "*"]
+[ECO "A45"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. f3 Qa5+ 5. c3 Nf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Trompowsky Attack"]
+[Result "*"]
+[ECO "A45"]
+[PlyCount "7"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. e3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Trompowsky Attack"]
+[Result "*"]
+[ECO "A45"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. Bg5 c5 3. Bxf6 gxf6 4. d5 Qb6 5. Qc1 f5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Trompowsky Attack"]
+[Result "*"]
+[ECO "A45"]
+[PlyCount "5"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Trompowsky Attack"]
+[Result "*"]
+[ECO "A45"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. Bg5 g6 3. Bxf6 exf6 4. e3 Bg7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Trompowsky Attack"]
+[Result "*"]
+[ECO "A45"]
+[PlyCount "5"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Trompowsky Attack"]
+[Result "*"]
+[ECO "A45"]
+[PlyCount "5"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. h4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Trompowsky Attack"]
+[Result "*"]
+[ECO "A45"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "London system"]
+[Result "*"]
+[ECO "A48"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. h3 d6 6. Be2 c5 7. c3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "London system"]
+[Result "*"]
+[ECO "A48"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. h3 d6 6. Be2 Nbd7 7. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "London system"]
+[Result "*"]
+[ECO "A48"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. h3 d6 6. Be2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Fajarowic Gambit"]
+[Result "*"]
+[ECO "A51"]
+[PlyCount "6"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Budapest Gambit"]
+[Result "*"]
+[ECO "A52"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Budapest Gambit"]
+[Result "*"]
+[ECO "A52"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Budapest Gambit"]
+[Result "*"]
+[ECO "A52"]
+[PlyCount "7"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Old Indian"]
+[Result "*"]
+[ECO "A53"]
+[PlyCount "7"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Old Indian"]
+[Result "*"]
+[ECO "A53"]
+[PlyCount "6"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Old Indian"]
+[Result "*"]
+[ECO "A53"]
+[PlyCount "7"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 4. Nf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Old Indian"]
+[Result "*"]
+[ECO "A53"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 4. f3 e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Old Indian"]
+[Result "*"]
+[ECO "A54"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Old Indian"]
+[Result "*"]
+[ECO "A54"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Czech Benoni"]
+[Result "*"]
+[ECO "A56"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Czech Benoni"]
+[Result "*"]
+[ECO "A56"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Benko Gambit"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Benko Gambit"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Benko Gambit"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 axb5 6. Bxb5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Benko Gambit"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Benko Gambit"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Benko Gambit"]
+[Result "*"]
+[ECO "A58"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Benko Gambit"]
+[Result "*"]
+[ECO "A58"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "A61"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bf4 a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "A61"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "A61"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bf4 Bg7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "A61"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Modern Benoni"]
+[Result "*"]
+[ECO "A61"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Modern Benoni"]
+[Result "*"]
+[ECO "A61"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bf4 a6 8. a4
+Bg7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "A62"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Re8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "A62"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Na6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "A62"]
+[PlyCount "19"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 10. a4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Modern Benoni"]
+[Result "*"]
+[ECO "A62"]
+[PlyCount "17"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Benoni"]
+[Result "*"]
+[ECO "A65"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nge2 Bg7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Modern Benoni"]
+[Result "*"]
+[ECO "A65"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Modern Benoni"]
+[Result "*"]
+[ECO "A66"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Modern Benoni"]
+[Result "*"]
+[ECO "A66"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Benoni"]
+[Result "*"]
+[ECO "A67"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Benoni"]
+[Result "*"]
+[ECO "A67"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Benoni"]
+[Result "*"]
+[ECO "A68"]
+[PlyCount "19"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3
+O-O 9. Bd3 Re8 10. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Benoni"]
+[Result "*"]
+[ECO "A68"]
+[PlyCount "19"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3
+O-O 9. Bd3 Re8 10. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Benoni"]
+[Result "*"]
+[ECO "A68"]
+[PlyCount "17"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3
+O-O 9. Be2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "A70"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "A70"]
+[PlyCount "17"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. h3
+O-O 9. Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Modern Benoni"]
+[Result "*"]
+[ECO "A70"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Benoni, Modern"]
+[Result "*"]
+[ECO "A73"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "A74"]
+[PlyCount "19"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "A77"]
+[PlyCount "19"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch"]
+[Result "*"]
+[ECO "A81"]
+[PlyCount "9"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nh3 Bg7 5. Nf4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch"]
+[Result "*"]
+[ECO "A81"]
+[PlyCount "11"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. b3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch"]
+[Result "*"]
+[ECO "A81"]
+[PlyCount "9"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. c3 Bg7 5. Qb3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch"]
+[Result "*"]
+[ECO "A81"]
+[PlyCount "10"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nh3 Bg7 5. O-O O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Staunton Gambit"]
+[Result "*"]
+[ECO "A82"]
+[PlyCount "6"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch"]
+[Result "*"]
+[ECO "A86"]
+[PlyCount "9"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. c4 Bg7 5. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch"]
+[Result "*"]
+[ECO "A87"]
+[PlyCount "16"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Qe8 8. d5 a5
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch"]
+[Result "*"]
+[ECO "A87"]
+[PlyCount "15"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Qe8 8. b3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch"]
+[Result "*"]
+[ECO "A87"]
+[PlyCount "17"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Qe8 8. d5
+Na6 9. Rb1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch"]
+[Result "*"]
+[ECO "A87"]
+[PlyCount "18"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Qe8 8. d5
+Na6 9. Nd4 Bd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch, Leningrad"]
+[Result "*"]
+[ECO "A87"]
+[PlyCount "15"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Qe8 8. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch"]
+[Result "*"]
+[ECO "A88"]
+[PlyCount "14"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch"]
+[Result "*"]
+[ECO "A89"]
+[PlyCount "14"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch, Stonewall"]
+[Result "*"]
+[ECO "A90"]
+[PlyCount "14"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 d5 5. Nf3 c6 6. O-O Bd6 7. b3 Qe7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch, Stonewall"]
+[Result "*"]
+[ECO "A91"]
+[PlyCount "10"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 Be7 5. Nh3 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch"]
+[Result "*"]
+[ECO "A96"]
+[PlyCount "14"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 a5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch"]
+[Result "*"]
+[ECO "A96"]
+[PlyCount "13"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 Be7 5. Nf3 O-O 6. O-O d6 7. b3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch, Stonewall"]
+[Result "*"]
+[ECO "A96"]
+[PlyCount "12"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 Be7 5. Nf3 O-O 6. O-O d6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Dutch"]
+[Result "*"]
+[ECO "A97"]
+[PlyCount "14"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scandinavian"]
+[Result "*"]
+[ECO "B01"]
+[PlyCount "12"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bc4 Bg4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scandinavian"]
+[Result "*"]
+[ECO "B01"]
+[PlyCount "11"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scandinavian"]
+[Result "*"]
+[ECO "B01"]
+[PlyCount "8"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scandinavian"]
+[Result "*"]
+[ECO "B01"]
+[PlyCount "11"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scandinavian"]
+[Result "*"]
+[ECO "B01"]
+[PlyCount "10"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scandinavian"]
+[Result "*"]
+[ECO "B01"]
+[PlyCount "12"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bc4 Bf5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine"]
+[Result "*"]
+[ECO "B02"]
+[PlyCount "7"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. bxc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine"]
+[Result "*"]
+[ECO "B02"]
+[PlyCount "7"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine"]
+[Result "*"]
+[ECO "B03"]
+[PlyCount "14"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. d5 e5 7. Nc3 Be7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine"]
+[Result "*"]
+[ECO "B03"]
+[PlyCount "12"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nc3 g6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine"]
+[Result "*"]
+[ECO "B03"]
+[PlyCount "11"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 Bf5 6. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine"]
+[Result "*"]
+[ECO "B03"]
+[PlyCount "18"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 c5 7. d5 e6 8. Nc3
+exd5 9. cxd5 c4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine"]
+[Result "*"]
+[ECO "B03"]
+[PlyCount "14"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 c5 7. d5 g6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine"]
+[Result "*"]
+[ECO "B03"]
+[PlyCount "12"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine, 4. Nf3"]
+[Result "*"]
+[ECO "B04"]
+[PlyCount "11"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 g6 6. c4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine, 4. Nf3"]
+[Result "*"]
+[ECO "B04"]
+[PlyCount "10"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. c4 Nb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine, 4. Nf3"]
+[Result "*"]
+[ECO "B04"]
+[PlyCount "12"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine, 4. Nf3"]
+[Result "*"]
+[ECO "B04"]
+[PlyCount "11"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 g6 6. Bc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine, 4. Nf3"]
+[Result "*"]
+[ECO "B04"]
+[PlyCount "10"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine, 4. Nf3"]
+[Result "*"]
+[ECO "B04"]
+[PlyCount "12"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Bg7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine, 4. Nf3"]
+[Result "*"]
+[ECO "B05"]
+[PlyCount "11"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 e6 6. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine, 4. Nf3"]
+[Result "*"]
+[ECO "B05"]
+[PlyCount "12"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 e6 6. c4 Nb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Alekhine, 4. Nf3"]
+[Result "*"]
+[ECO "B05"]
+[PlyCount "7"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "16"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. Qd2
+Re8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "14"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "14"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "14"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 a6 7. a4 b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "13"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 c6 7. a4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "13"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 c6 7. Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "13"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 c6 7. Qd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "12"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Bg5 O-O 6. Qd2 c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "13"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be3 O-O 6. Qd2 c6 7. Bh6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "13"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be3 O-O 6. Qd2 Nbd7 7. O-O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "14"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 a5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "12"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be3 O-O 6. Qd2 Ng4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "13"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be3 O-O 6. Qd2 c6 7. Bh6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Classical"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "12"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Classical"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "16"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. Qd2
+e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "18"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. d5
+Bg4 9. h3 Bxf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "14"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 c5 7. dxc5 dxc5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "16"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. d5
+Rb8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "18"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. d5
+Bg4 9. Bc4 Nc7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "12"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "11"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "15"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. dxc5 Qa5 7. Bd3 Qxc5 8. Qe2
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "12"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "12"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "13"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "13"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "14"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "10"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "18"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. e6
+fxe6 9. Ng5 Bxb5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "15"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8. e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "17"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. Bxd7+
+Qxd7 9. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "13"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. Bxd7+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "16"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8. Be3
+e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Pirc, Austrian attack"]
+[Result "*"]
+[ECO "B09"]
+[PlyCount "23"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. e6
+Bxb5 9. exf7+ Kd7 10. Nxb5 Qa5+ 11. Nc3 cxd4 12. Nxd4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "6"]
+
+1. e4 c6 2. d4 d5 3. f3 e6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "9"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "6"]
+
+1. e4 c6 2. d4 d5 3. f3 g6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "13"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Bg6 7. b3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "14"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Bg6 7. Nbd2 Nh6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "10"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "13"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O Nd7 7. Nbd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "10"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "14"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Ne7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "13"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. c3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "7"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "9"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Bg6 5. h4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "8"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "13"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 Ne7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Advance"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "8"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 Qb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann"]
+[Result "*"]
+[ECO "B13"]
+[PlyCount "13"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann"]
+[Result "*"]
+[ECO "B13"]
+[PlyCount "13"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. Bxc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann"]
+[Result "*"]
+[ECO "B13"]
+[PlyCount "8"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 g6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann"]
+[Result "*"]
+[ECO "B13"]
+[PlyCount "12"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Be6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann"]
+[Result "*"]
+[ECO "B14"]
+[PlyCount "14"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 e6 7. cxd5 Nxd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann"]
+[Result "*"]
+[ECO "B14"]
+[PlyCount "12"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Bg7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Panov"]
+[Result "*"]
+[ECO "B14"]
+[PlyCount "11"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann"]
+[Result "*"]
+[ECO "B16"]
+[PlyCount "10"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann"]
+[Result "*"]
+[ECO "B17"]
+[PlyCount "19"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. N1f3 Bd6 8.
+Qe2 h6 9. Ne4 Nxe4 10. Qxe4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann"]
+[Result "*"]
+[ECO "B17"]
+[PlyCount "14"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann"]
+[Result "*"]
+[ECO "B17"]
+[PlyCount "12"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann"]
+[Result "*"]
+[ECO "B17"]
+[PlyCount "11"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Neg5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann"]
+[Result "*"]
+[ECO "B19"]
+[PlyCount "14"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Caro-Kann, Classical"]
+[Result "*"]
+[ECO "B19"]
+[PlyCount "19"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Sicilian, Wing Gambit"]
+[Result "*"]
+[ECO "B20"]
+[PlyCount "4"]
+
+1. e4 c5 2. b4 cxb4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Smith-Morra Gambit"]
+[Result "*"]
+[ECO "B21"]
+[PlyCount "7"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, 2.c3"]
+[Result "*"]
+[ECO "B22"]
+[PlyCount "13"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 cxd4 6. cxd4 e6 7. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, 2.c3"]
+[Result "*"]
+[ECO "B22"]
+[PlyCount "11"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Nf6 6. Be2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, 2.c3"]
+[Result "*"]
+[ECO "B22"]
+[PlyCount "12"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 e6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, 2.c3"]
+[Result "*"]
+[ECO "B22"]
+[PlyCount "15"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 cxd4 7. cxd4 e6 8.
+Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, 2.c3"]
+[Result "*"]
+[ECO "B22"]
+[PlyCount "14"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Bc4 Nb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, 2.c3"]
+[Result "*"]
+[ECO "B22"]
+[PlyCount "13"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 7. exd6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, 2.c3"]
+[Result "*"]
+[ECO "B22"]
+[PlyCount "10"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 e6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, 2.c3"]
+[Result "*"]
+[ECO "B22"]
+[PlyCount "13"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, 2.c3"]
+[Result "*"]
+[ECO "B22"]
+[PlyCount "14"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 7. Bc4 Nb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Closed"]
+[Result "*"]
+[ECO "B24"]
+[PlyCount "13"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. Be3 Nd4 7. Nce2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Closed"]
+[Result "*"]
+[ECO "B24"]
+[PlyCount "13"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. f4 Nge7 7. Nf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Closed"]
+[Result "*"]
+[ECO "B24"]
+[PlyCount "14"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. Be3 Nd4 7. Qd2 Ne7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Closed"]
+[Result "*"]
+[ECO "B25"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Closed"]
+[Result "*"]
+[ECO "B25"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. f4 d6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Closed"]
+[Result "*"]
+[ECO "B26"]
+[PlyCount "13"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Closed"]
+[Result "*"]
+[ECO "B26"]
+[PlyCount "14"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Rb8 7. Qd2 b5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Closed"]
+[Result "*"]
+[ECO "B26"]
+[PlyCount "13"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. Be3 d6 7. Qd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B32"]
+[PlyCount "15"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qe7 8.
+Qd1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B32"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. N1c3 a6 8. Na3
+f5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B32"]
+[PlyCount "24"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qd1 Qg6 9. Nc3 d5 10. Nxd5 Qxe4+ 11. Be3 Nd4 12. Nc7+ Ke7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B32"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. N1c3 a6 8. Na3
+Be6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B32"]
+[PlyCount "11"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. a4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Maroczy Bind"]
+[Result "*"]
+[ECO "B32"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qd1 Qg6 9. Nc3 Nge7 10. h4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "23"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "20"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "21"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "23"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bd3 Be6 12. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "23"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bd3 Be6 12. Qh5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "25"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. exf5 Bxf5 12. c3 Bg7 13. Nc2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "22"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Ne7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. c4 Nf5 10. Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Nb8 9. c4 Be7 10. Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "18"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. c4 Ng6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "21"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. c3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "28"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. a4 bxa4 14. Rxa4 a5
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "23"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "23"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "24"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Rb8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Nb8 9. c4 Be7 10. Be2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Sveshnikov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "24"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Maroczy Bind"]
+[Result "*"]
+[ECO "B36"]
+[PlyCount "20"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Be2 Nxd4 8.
+Qxd4 Bg7 9. Be3 O-O 10. Qd2 Be6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Maroczy Bind"]
+[Result "*"]
+[ECO "B36"]
+[PlyCount "18"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Be2 Nxd4 8.
+Qxd4 Bg7 9. Bg5 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Maroczy Bind"]
+[Result "*"]
+[ECO "B38"]
+[PlyCount "13"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Be2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B45"]
+[PlyCount "18"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Nxc6 bxc6 7. e5 Nd5 8.
+Ne4 Qc7 9. f4 Qb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B46"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 d5 8.
+O-O Nf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Paulsen"]
+[Result "*"]
+[ECO "B46"]
+[PlyCount "12"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Nge7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Paulsen"]
+[Result "*"]
+[ECO "B46"]
+[PlyCount "10"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Paulsen"]
+[Result "*"]
+[ECO "B47"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6 8.
+Kh1 b5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Paulsen"]
+[Result "*"]
+[ECO "B47"]
+[PlyCount "23"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6 8.
+Kh1 Nxd4 9. Qxd4 Bc5 10. Qd3 b5 11. f4 Bb7 12. Bf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Paulsen"]
+[Result "*"]
+[ECO "B47"]
+[PlyCount "18"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6 8.
+Kh1 Bb4 9. Nxc6 bxc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Paulsen"]
+[Result "*"]
+[ECO "B47"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6 8.
+Kh1 Bb4 9. Bg5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Paulsen"]
+[Result "*"]
+[ECO "B47"]
+[PlyCount "15"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 Qc7 7. Bg2 d6 8. O-O
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian Taimanov"]
+[Result "*"]
+[ECO "B47"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 Qc7 7. Bg2 Nf6 8. O-O
+Be7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Paulsen"]
+[Result "*"]
+[ECO "B49"]
+[PlyCount "18"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6 8.
+Be3 Bb4 9. Na4 Bd6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Paulsen"]
+[Result "*"]
+[ECO "B49"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6 8.
+Be3 Bb4 9. Na4 Be7 10. c4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Paulsen"]
+[Result "*"]
+[ECO "B49"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6 8.
+Be3 Bb4 9. Nxc6 bxc6 10. Na4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B57"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nb3 e6 8.
+Be3 Qc7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B57"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nb3 e6 8.
+Bf4 Ne5 9. Be2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B57"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Ndb5 a6 8.
+Be3 Qa5 9. Nd4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B57"]
+[PlyCount "15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nde2 e6 8.
+Bb3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B57"]
+[PlyCount "15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nde2 e6 8.
+O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B57"]
+[PlyCount "15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nxc6 bxc6 8.
+O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B58"]
+[PlyCount "14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nf3 h6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B59"]
+[PlyCount "14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nb3 Be7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B60"]
+[PlyCount "12"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Richter-Rauzer"]
+[Result "*"]
+[ECO "B62"]
+[PlyCount "15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Bb5 Bd7 8.
+O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B63"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O Nxd4 9. Qxd4 O-O 10. f3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B63"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f3 a6 10. h4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B63"]
+[PlyCount "18"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. Nb3 a5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian Richter-Rauzer"]
+[Result "*"]
+[ECO "B63"]
+[PlyCount "14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Qb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian Richter-Rauzer"]
+[Result "*"]
+[ECO "B64"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B65"]
+[PlyCount "21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O Nxd4 9. Qxd4 O-O 10. f4 h6 11. Bh4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B65"]
+[PlyCount "21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O Nxd4 9. Qxd4 O-O 10. f4 Qa5 11. Kb1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B66"]
+[PlyCount "22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Be7 10. f3 Nxd4 11. Bxd4 b5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B66"]
+[PlyCount "20"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 h6 10. Be3 b5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B66"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O Nxd4 9. Qxd4 a6 10. f3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B66"]
+[PlyCount "23"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. f3 d5 12. Qe1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B66"]
+[PlyCount "21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Bd7 10. f3 b5 11. g4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Richter-Rauzer"]
+[Result "*"]
+[ECO "B66"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B70"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 g6 7. O-O Bg7 8.
+Nb3 O-O 9. Re1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B70"]
+[PlyCount "18"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. g3 Nc6 7. Bg2 Nxd4 8.
+Qxd4 Bg7 9. O-O O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B70"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. O-O O-O 8.
+Re1 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B70"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. g3 Nc6 7. Nde2 Bg7 8.
+Bg2 O-O 9. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B70"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8.
+Bg5 Nc6 9. Nb3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B70"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 g6 7. O-O Bg7 8.
+Nb3 O-O 9. Bg5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B73"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 g6 7. Be3 Bg7 8.
+O-O O-O 9. h3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B73"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6 8.
+O-O O-O 9. Kh1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B73"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 g6 7. O-O Bg7 8.
+Be3 O-O 9. h3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B73"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 g6 7. O-O Bg7 8.
+Be3 O-O 9. f4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B73"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6 8.
+O-O O-O 9. Qd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B74"]
+[PlyCount "18"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6 8.
+O-O O-O 9. Nb3 a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B76"]
+[PlyCount "25"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Nxd5 cxd5 13. Bh6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B76"]
+[PlyCount "21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. Kb1 Nxd4 11. e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B76"]
+[PlyCount "22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O Nxd4 10. Bxd4 Be6 11. Kb1 Qc7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B76"]
+[PlyCount "25"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Bxd4 13. Qxd4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian Dragon"]
+[Result "*"]
+[ECO "B76"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. Qe1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B77"]
+[PlyCount "22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. Bb3 Nxd4 11. Bxd4 b5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B78"]
+[PlyCount "25"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Ne5 11. Bb3 Rc8 12. Kb1 Re8 13. h4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B79"]
+[PlyCount "24"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Qa5 11. Kb1 Rfc8 12. Bb3 Ne5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B79"]
+[PlyCount "21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Qa5 11. h4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Dragon"]
+[Result "*"]
+[ECO "B79"]
+[PlyCount "22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Ne5 11. Bb3 Rc8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B80"]
+[PlyCount "13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B80"]
+[PlyCount "13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Qf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B80"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B80"]
+[PlyCount "15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e6 7. Bg2 Qc7 8. O-O
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B80"]
+[PlyCount "15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nc6 7. Nf3 e6 8. Bd3
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B80"]
+[PlyCount "12"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Najdorf"]
+[Result "*"]
+[ECO "B80"]
+[PlyCount "10"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B83"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e6 7. Be3 Be7 8.
+Qd2 O-O 9. O-O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B83"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e6 7. Be3 Be7 8.
+O-O Bd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B83"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e6 7. Be3 Be7 8.
+Qd2 O-O 9. f4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Scheveningen"]
+[Result "*"]
+[ECO "B84"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. f4
+O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B85"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e6 7. Be3 Be7 8.
+O-O a6 9. f4 O-O 10. Qe1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Paulsen"]
+[Result "*"]
+[ECO "B85"]
+[PlyCount "23"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6 8.
+Kh1 Be7 9. f4 d6 10. a4 O-O 11. Be3 Re8 12. Bf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Paulsen"]
+[Result "*"]
+[ECO "B85"]
+[PlyCount "23"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6 8.
+Kh1 Be7 9. f4 d6 10. a4 O-O 11. Be3 Re8 12. Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B86"]
+[PlyCount "15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. g4
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B86"]
+[PlyCount "13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B86"]
+[PlyCount "14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 b5 7. Bb3 Bb7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B86"]
+[PlyCount "15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. Be3
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B86"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. O-O
+O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B88"]
+[PlyCount "15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Bb3 a6 8. O-O
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B88"]
+[PlyCount "14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. O-O Be7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B88"]
+[PlyCount "21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Bb3 a6 8. Be3
+Qc7 9. f4 Be7 10. Qf3 O-O 11. O-O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B89"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 a6 8. Qe2
+Qc7 9. O-O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B91"]
+[PlyCount "14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian, Najdorf"]
+[Result "*"]
+[ECO "B91"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg2
+O-O 9. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B92"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Kh1 b5 10. a4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B92"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B92"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. Nd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B92"]
+[PlyCount "18"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B92"]
+[PlyCount "18"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Kh1 b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B92"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Kh1 Be6 10. f4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B92"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B92"]
+[PlyCount "15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B92"]
+[PlyCount "15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8. O-O
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B92"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+O-O 9. g4 Be6 10. g5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B92"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+O-O 9. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B92"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B95"]
+[PlyCount "15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B95"]
+[PlyCount "13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B96"]
+[PlyCount "14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B97"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B97"]
+[PlyCount "25"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. Be2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B97"]
+[PlyCount "25"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B97"]
+[PlyCount "15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B97"]
+[PlyCount "18"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Nb3 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B97"]
+[PlyCount "18"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Nb3 Qa3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B98"]
+[PlyCount "17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+h6 9. Bh4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B99"]
+[PlyCount "22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 b5 11. Rhe1 Bb7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B99"]
+[PlyCount "26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 12. fxg5 Ne5 13. Qe2 Nfg4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B99"]
+[PlyCount "22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 b5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Sicilian"]
+[Result "*"]
+[ECO "B99"]
+[PlyCount "21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C01"]
+[PlyCount "9"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. exd5 exd5 5. Nf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French, Advance"]
+[Result "*"]
+[ECO "C02"]
+[PlyCount "16"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Bd7 7. b4 cxd4 8. cxd4
+Rc8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French, Advance"]
+[Result "*"]
+[ECO "C02"]
+[PlyCount "16"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Nh6 7. b4 cxd4 8. cxd4
+Nf5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French, Advance"]
+[Result "*"]
+[ECO "C02"]
+[PlyCount "14"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 cxd4 7. cxd4 Nh6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French, Advance"]
+[Result "*"]
+[ECO "C02"]
+[PlyCount "17"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Na5 8. Be2 Bd7
+9. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French, Advance"]
+[Result "*"]
+[ECO "C02"]
+[PlyCount "16"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Na5 8. g3 Bd7
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French, Advance"]
+[Result "*"]
+[ECO "C02"]
+[PlyCount "13"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French, Advance"]
+[Result "*"]
+[ECO "C02"]
+[PlyCount "13"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. Bc2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French, Advance"]
+[Result "*"]
+[ECO "C02"]
+[PlyCount "19"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O
+Nxd4 9. Nxd4 Qxd4 10. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French, Advance"]
+[Result "*"]
+[ECO "C02"]
+[PlyCount "12"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French, Advance"]
+[Result "*"]
+[ECO "C02"]
+[PlyCount "13"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 Bd7 7. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French, Advance"]
+[Result "*"]
+[ECO "C02"]
+[PlyCount "12"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 Nh6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French, Advance"]
+[Result "*"]
+[ECO "C02"]
+[PlyCount "14"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French, Tarrasch"]
+[Result "*"]
+[ECO "C05"]
+[PlyCount "12"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C10"]
+[PlyCount "12"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C10"]
+[PlyCount "16"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O Ngf6 8.
+Ng3 Be7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C11"]
+[PlyCount "17"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
+9. a3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C11"]
+[PlyCount "23"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
+9. dxc5 Bxc5 10. Bxc5 Nxc5 11. Qf2 Qb6 12. Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C11"]
+[PlyCount "22"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 Nxd4 10. Bxd4 Bxd4 11. Qxd4 Qb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C11"]
+[PlyCount "20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Qb6 8. Na4
+Qa5+ 9. c3 c4 10. b4 Qc7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C11"]
+[PlyCount "13"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C11"]
+[PlyCount "14"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C11"]
+[PlyCount "19"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Qb6 8. Na4
+Qa5+ 9. c3 cxd4 10. b4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C12"]
+[PlyCount "18"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Bd3
+Nxd2 9. Qxd2 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C12"]
+[PlyCount "15"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C13"]
+[PlyCount "11"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C13"]
+[PlyCount "10"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C14"]
+[PlyCount "11"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C14"]
+[PlyCount "15"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C14"]
+[PlyCount "15"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C15"]
+[PlyCount "7"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Nge2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C16"]
+[PlyCount "10"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Bd2 b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C16"]
+[PlyCount "8"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C16"]
+[PlyCount "8"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C18"]
+[PlyCount "16"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8. Bd3
+Nbc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C18"]
+[PlyCount "20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8. Bd3
+f5 9. exf6 Rxf6 10. Bg5 Rf7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C18"]
+[PlyCount "14"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Kf8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C18"]
+[PlyCount "21"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C18"]
+[PlyCount "15"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 Bc7 8. f4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C18"]
+[PlyCount "13"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxb4 7. Nb5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C18"]
+[PlyCount "12"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C19"]
+[PlyCount "14"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Nf3 Bd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French"]
+[Result "*"]
+[ECO "C19"]
+[PlyCount "16"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Nf3 Qa5 8. Bd2
+Nbc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "French, Winawer"]
+[Result "*"]
+[ECO "C19"]
+[PlyCount "12"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Danish Gambit, Alekhine var"]
+[Result "*"]
+[ECO "C21"]
+[PlyCount "7"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Nxc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Urusov Gambit"]
+[Result "*"]
+[ECO "C24"]
+[PlyCount "7"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Frankenstein-Dracula"]
+[Result "*"]
+[ECO "C27"]
+[PlyCount "14"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Qh5 Nd6 5. Bb3 Nc6 6. Nb5 g6 7. Qf3 f5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C27"]
+[PlyCount "5"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Vienna Gambit"]
+[Result "*"]
+[ECO "C29"]
+[PlyCount "5"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C30"]
+[PlyCount "6"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "King's Gambit, Falkbeer Countergam"]
+[Result "*"]
+[ECO "C31"]
+[PlyCount "5"]
+
+1. e4 e5 2. f4 d5 3. exd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C32"]
+[PlyCount "6"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C33"]
+[PlyCount "5"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C34"]
+[PlyCount "6"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C36"]
+[PlyCount "7"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "King's Gambit, Classical"]
+[Result "*"]
+[ECO "C37"]
+[PlyCount "7"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "King's Gambit, Muzio Gambit"]
+[Result "*"]
+[ECO "C37"]
+[PlyCount "11"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C37"]
+[PlyCount "7"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C39"]
+[PlyCount "7"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Latvian Gambit"]
+[Result "*"]
+[ECO "C40"]
+[PlyCount "4"]
+
+1. e4 e5 2. Nf3 f5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C40"]
+[PlyCount "7"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Philidor Counter Gambit"]
+[Result "*"]
+[ECO "C41"]
+[PlyCount "6"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Philidor's Defense"]
+[Result "*"]
+[ECO "C41"]
+[PlyCount "10"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Cochrane Gambit"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "8"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Petroff Defense"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "16"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8.
+Re1 Bg4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Petroff Defense"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "16"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Petroff Defense"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "18"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nb4 9. Be2 Be6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Petroff Defense"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "17"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nb4 9. cxd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Petroff Defense"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "14"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Bg4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Petroff Defense"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "15"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O 8.
+Re1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Petroff Defense"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "16"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O 8. c4
+Nf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Petroff Defense"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "16"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O 8. c4
+c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Petroff Defense"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "15"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Bg4 8. c4
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Petroff Defense"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "18"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nb4 9. Be2 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Petroff Defense"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "19"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Bg5 Qxe2+ 8.
+Bxe2 Be7 9. Nc3 c6 10. O-O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Petroff Defense"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "14"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Bg4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Petroff Defense"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "11"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Petroff Defense"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "12"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Petroff Defense"]
+[Result "*"]
+[ECO "C42"]
+[PlyCount "15"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O
+8. Qd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Goring Gambit"]
+[Result "*"]
+[ECO "C44"]
+[PlyCount "9"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scotch"]
+[Result "*"]
+[ECO "C44"]
+[PlyCount "6"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scotch"]
+[Result "*"]
+[ECO "C44"]
+[PlyCount "9"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 Nxe4 5. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scotch"]
+[Result "*"]
+[ECO "C44"]
+[PlyCount "6"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 f5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scotch"]
+[Result "*"]
+[ECO "C44"]
+[PlyCount "9"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 exd4 5. e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scotch"]
+[Result "*"]
+[ECO "C45"]
+[PlyCount "10"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scotch"]
+[Result "*"]
+[ECO "C45"]
+[PlyCount "10"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scotch"]
+[Result "*"]
+[ECO "C45"]
+[PlyCount "16"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Ba6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scotch"]
+[Result "*"]
+[ECO "C45"]
+[PlyCount "16"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Nb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scotch"]
+[Result "*"]
+[ECO "C45"]
+[PlyCount "7"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scotch"]
+[Result "*"]
+[ECO "C45"]
+[PlyCount "13"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. g3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scotch"]
+[Result "*"]
+[ECO "C45"]
+[PlyCount "13"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Halloween Gambit"]
+[Result "*"]
+[ECO "C47"]
+[PlyCount "7"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C47"]
+[PlyCount "9"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 Bc5 5. Bg2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C47"]
+[PlyCount "11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 d5 5. exd5 Nxd5 6. Bg2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C47"]
+[PlyCount "8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 Bb4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scotch"]
+[Result "*"]
+[ECO "C47"]
+[PlyCount "15"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3 O-O
+8. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scotch"]
+[Result "*"]
+[ECO "C47"]
+[PlyCount "20"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Scotch"]
+[Result "*"]
+[ECO "C47"]
+[PlyCount "10"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bc5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Blackburne-Shilling Gambit"]
+[Result "*"]
+[ECO "C50"]
+[PlyCount "9"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4 4. Nxe5 Qg5 5. Bxf7+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C50"]
+[PlyCount "7"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C50"]
+[PlyCount "7"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C50"]
+[PlyCount "8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C50"]
+[PlyCount "9"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C50"]
+[PlyCount "10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C50"]
+[PlyCount "8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 d6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C50"]
+[PlyCount "10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 d6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Evans Gambit"]
+[Result "*"]
+[ECO "C51"]
+[PlyCount "9"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C54"]
+[PlyCount "17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Nxe4 8.
+O-O Bxc3 9. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C54"]
+[PlyCount "12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. c3 d6 6. Nbd2 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C54"]
+[PlyCount "17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. c3 d6 6. Nbd2 a6 7. Bb3 Ba7 8. h3
+O-O 9. Nf1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C54"]
+[PlyCount "14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. c3 d6 6. b4 Bb6 7. a4 a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C54"]
+[PlyCount "15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C55"]
+[PlyCount "8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C55"]
+[PlyCount "9"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C57"]
+[PlyCount "10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C58"]
+[PlyCount "13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ Bd7 7. Qe2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C58"]
+[PlyCount "15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Qf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Italian"]
+[Result "*"]
+[ECO "C59"]
+[PlyCount "15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Be2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C61"]
+[PlyCount "9"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Schliemann Defence"]
+[Result "*"]
+[ECO "C63"]
+[PlyCount "6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C68"]
+[PlyCount "10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C68"]
+[PlyCount "19"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Ne7 6. Nxe5 Qd4 7. Qh5 g6 8.
+Qg5 Bg7 9. Nd3 f5 10. e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez, Exchange var"]
+[Result "*"]
+[ECO "C68"]
+[PlyCount "13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C69"]
+[PlyCount "10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C70"]
+[PlyCount "12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. O-O d6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C72"]
+[PlyCount "9"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C75"]
+[PlyCount "10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C77"]
+[PlyCount "9"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C77"]
+[PlyCount "9"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C78"]
+[PlyCount "13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Spanish, Closed - Archangels"]
+[Result "*"]
+[ECO "C78"]
+[PlyCount "12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C80"]
+[PlyCount "17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C82"]
+[PlyCount "17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Spanish, Open"]
+[Result "*"]
+[ECO "C82"]
+[PlyCount "16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C84"]
+[PlyCount "15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. e5 Ne4 8.
+Nxd4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C88"]
+[PlyCount "16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. a4
+Bb7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C88"]
+[PlyCount "17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. a4
+Bb7 9. d3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C88"]
+[PlyCount "16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. a4
+b4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C88"]
+[PlyCount "17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. h3
+Bb7 9. d3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Ruy Lopez, Marshall Gambit"]
+[Result "*"]
+[ECO "C89"]
+[PlyCount "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C89"]
+[PlyCount "28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C91"]
+[PlyCount "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. d4 Bg4 10. d5 Na5 11. Bc2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C91"]
+[PlyCount "19"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. d4 Bg4 10. Be3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C92"]
+[PlyCount "26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. d5 Nb8 13. Nf1 Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C92"]
+[PlyCount "20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. h3 Nd7 10. d4 Bf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C92"]
+[PlyCount "19"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. h3 Re8 10. d4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C92"]
+[PlyCount "18"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. h3 Be6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Spanish, Closed - Zaitsev"]
+[Result "*"]
+[ECO "C92"]
+[PlyCount "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C93"]
+[PlyCount "23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. h3 h6 10. d4 Re8 11. Nbd2 Bf8 12. Nf1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C95"]
+[PlyCount "29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15. a4
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C95"]
+[PlyCount "29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15. b3
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C96"]
+[PlyCount "23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. Nbd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C97"]
+[PlyCount "25"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Bd7 13. Nf1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C97"]
+[PlyCount "23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C99"]
+[PlyCount "26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Ruy Lopez"]
+[Result "*"]
+[ECO "C99"]
+[PlyCount "26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bb7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Blackmar-Diemer Gambit"]
+[Result "*"]
+[ECO "D00"]
+[PlyCount "7"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "1.d4 d5 Unusual lines"]
+[Result "*"]
+[ECO "D00"]
+[PlyCount "3"]
+
+1. d4 d5 2. Bg5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "1.d4 d5 unusual lines"]
+[Result "*"]
+[ECO "D00"]
+[PlyCount "5"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "1.d4 d5 unusual lines"]
+[Result "*"]
+[ECO "D00"]
+[PlyCount "6"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 gxf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "1.d4 d5 unusual lines"]
+[Result "*"]
+[ECO "D00"]
+[PlyCount "7"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 exf6 4. e3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Colle system"]
+[Result "*"]
+[ECO "D05"]
+[PlyCount "12"]
+
+1. Nf3 Nf6 2. d4 d5 3. e3 e6 4. c3 c5 5. Bd3 Nc6 6. Nbd2 Bd6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Colle system"]
+[Result "*"]
+[ECO "D05"]
+[PlyCount "9"]
+
+1. Nf3 Nf6 2. d4 d5 3. e3 e6 4. c3 c5 5. Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Albin Countergambit"]
+[Result "*"]
+[ECO "D08"]
+[PlyCount "6"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D08"]
+[PlyCount "8"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D09"]
+[PlyCount "9"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D15"]
+[PlyCount "11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. cxd5 cxd5 6. Bf4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D15"]
+[PlyCount "10"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. a4 e6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D15"]
+[PlyCount "9"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 Bf5 5. cxd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D15"]
+[PlyCount "15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e4 b5 6. e5 Nd5 7. a4 e6 8. Ng5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D15"]
+[PlyCount "12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e3 b5 6. a4 b4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D15"]
+[PlyCount "11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 b5 6. c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D15"]
+[PlyCount "10"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. c5 Bf5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D15"]
+[PlyCount "12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 b5 6. b3 Bg4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D15"]
+[PlyCount "13"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. c5 Nbd7 6. Bf4 Nh5 7. e3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D15"]
+[PlyCount "12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 b5 6. cxd5 cxd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D15"]
+[PlyCount "13"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. c5 Nbd7 6. Bf4 Nh5 7. e3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D16"]
+[PlyCount "10"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 e6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D16"]
+[PlyCount "10"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Na6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D16"]
+[PlyCount "12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D17"]
+[PlyCount "29"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. e4
+Bxe4 9. fxe4 Nxe4 10. Bd2 Qxd4 11. Nxe4 Qxe4+ 12. Qe2 Bxd2+ 13. Kxd2 Qd5+ 14.
+Kc2 Na6 15. Nxc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D17"]
+[PlyCount "16"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6 8.
+Ne5 a5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D17"]
+[PlyCount "20"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
+g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D17"]
+[PlyCount "12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Nh4 Bc8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D17"]
+[PlyCount "14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Nh4 e6 7. Nxf5 exf5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D17"]
+[PlyCount "15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. Nxc4
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D18"]
+[PlyCount "23"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qe2 Bg6 10. e4 Bxc3 11. bxc3 Nxe4 12. Ba3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D18"]
+[PlyCount "19"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qe2 Bg6 10. Rd1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D18"]
+[PlyCount "17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Nh4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D18"]
+[PlyCount "10"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D18"]
+[PlyCount "14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D18"]
+[PlyCount "17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qb3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D19"]
+[PlyCount "22"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qe2 Bg6 10. e4 O-O 11. Bd3 Bh5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D19"]
+[PlyCount "22"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qe2 Bg6 10. e4 O-O 11. Bd3 h6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D19"]
+[PlyCount "22"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qe2 Bg6 10. e4 O-O 11. e5 Nd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D19"]
+[PlyCount "18"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qe2 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D20"]
+[PlyCount "9"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D20"]
+[PlyCount "6"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D20"]
+[PlyCount "8"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bb4+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D20"]
+[PlyCount "9"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "D24"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e3 a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "D26"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e3 c5 6. Bxc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Tarrasch Defense"]
+[Result "*"]
+[ECO "D32"]
+[PlyCount "13"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. e3 Nf6 7. Be2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Tarrasch Defense"]
+[Result "*"]
+[ECO "D34"]
+[PlyCount "18"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. dxc5 Bxc5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Tarrasch Defense"]
+[Result "*"]
+[ECO "D34"]
+[PlyCount "17"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. b3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Tarrasch Defense"]
+[Result "*"]
+[ECO "D34"]
+[PlyCount "22"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Tarrasch Defense"]
+[Result "*"]
+[ECO "D34"]
+[PlyCount "17"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Tarrasch Defense"]
+[Result "*"]
+[ECO "D34"]
+[PlyCount "21"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Bf4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Tarrasch Defense"]
+[Result "*"]
+[ECO "D34"]
+[PlyCount "18"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. dxc5 Bxc5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Tarrasch Defense"]
+[Result "*"]
+[ECO "D34"]
+[PlyCount "20"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 c4 10. Ne5 Be6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D35"]
+[PlyCount "15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Be7 6. e3 Nbd7 7. cxd5 exd5 8.
+Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D35"]
+[PlyCount "13"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. cxd5 exd5 6. Bg5 Be7 7. e3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D35"]
+[PlyCount "11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. cxd5 exd5 6. Qc2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D35"]
+[PlyCount "12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. cxd5 exd5 6. Bg5 Bf5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "D39"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "D40"]
+[PlyCount "9"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. e3 d5 5. d4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D43"]
+[PlyCount "11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D43"]
+[PlyCount "15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8. Bd3
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D44"]
+[PlyCount "12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. a4 Bb4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D44"]
+[PlyCount "23"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D44"]
+[PlyCount "21"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. g3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D45"]
+[PlyCount "10"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D45"]
+[PlyCount "10"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Be7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D45"]
+[PlyCount "14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D45"]
+[PlyCount "15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8. O-O
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D45"]
+[PlyCount "11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Bd6 6. Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D45"]
+[PlyCount "13"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. g4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Semi-Slav"]
+[Result "*"]
+[ECO "D46"]
+[PlyCount "11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D46"]
+[PlyCount "15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D47"]
+[PlyCount "17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. a3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D47"]
+[PlyCount "22"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. e4 b4 10. Na4 c5 11. e5 Nd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D47"]
+[PlyCount "15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Be2
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D47"]
+[PlyCount "16"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+b4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D48"]
+[PlyCount "18"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D52"]
+[PlyCount "14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. e3 Qa5 7. Bxf6 Nxf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D52"]
+[PlyCount "18"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. e3 Qa5 7. Nd2 dxc4 8.
+Bxf6 Nxf6 9. Nxc4 Qc7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D52"]
+[PlyCount "16"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. e3 Qa5 7. Nd2 Bb4 8. Qc2
+O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D53"]
+[PlyCount "15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Be7 6. e3 Nbd7 7. Bd3 dxc4 8.
+Bxc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D53"]
+[PlyCount "13"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Be7 6. e3 Nbd7 7. Rc1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D55"]
+[PlyCount "12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Be7 6. e3 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit declined, Tartakower"]
+[Result "*"]
+[ECO "D58"]
+[PlyCount "14"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D60"]
+[PlyCount "15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Be7 6. e3 Nbd7 7. Bd3 O-O 8. O-O
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D61"]
+[PlyCount "15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Be7 6. e3 Nbd7 7. Qc2 O-O 8. Rd1
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Fianchetto"]
+[Result "*"]
+[ECO "D74"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. cxd5 Nxd5 7. O-O Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Fianchetto"]
+[Result "*"]
+[ECO "D75"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. cxd5 Nxd5 7. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Fianchetto"]
+[Result "*"]
+[ECO "D76"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. cxd5 Nxd5 7. O-O Nb6 8.
+Nc3 Nc6 9. d5 Na5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Fianchetto"]
+[Result "*"]
+[ECO "D76"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. cxd5 Nxd5 7. O-O Nb6 8.
+Nc3 Nc6 9. e3 Re8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Fianchetto"]
+[Result "*"]
+[ECO "D76"]
+[PlyCount "19"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. cxd5 Nxd5 7. O-O Nb6 8.
+Nc3 Nc6 9. e3 e5 10. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Fianchetto"]
+[Result "*"]
+[ECO "D77"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. O-O dxc4 7. Na3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Fianchetto"]
+[Result "*"]
+[ECO "D78"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. O-O c6 7. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Fianchetto"]
+[Result "*"]
+[ECO "D78"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. O-O c6 7. b3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Fianchetto"]
+[Result "*"]
+[ECO "D78"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. O-O c6 7. Nbd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Fianchetto"]
+[Result "*"]
+[ECO "D78"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. O-O c6 7. b3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Fianchetto"]
+[Result "*"]
+[ECO "D78"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. O-O c6 7. Nbd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Fianchetto"]
+[Result "*"]
+[ECO "D79"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. O-O c6 7. cxd5 cxd5 8. Ne5
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Fianchetto"]
+[Result "*"]
+[ECO "D79"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. O-O c6 7. cxd5 cxd5 8. Nc3
+Ne4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Fianchetto"]
+[Result "*"]
+[ECO "D79"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. O-O c6 7. cxd5 cxd5 8. Nc3
+Nc6 9. Ne5 e6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Classical"]
+[Result "*"]
+[ECO "D85"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bb5+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Classical"]
+[Result "*"]
+[ECO "D85"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Classical"]
+[Result "*"]
+[ECO "D85"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Qd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Classical"]
+[Result "*"]
+[ECO "D85"]
+[PlyCount "23"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 O-O 8.
+Rb1 c5 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Classical"]
+[Result "*"]
+[ECO "D85"]
+[PlyCount "23"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 O-O 8.
+Rb1 c5 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Classical"]
+[Result "*"]
+[ECO "D85"]
+[PlyCount "19"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 O-O 8.
+Rb1 c5 9. Be2 Nc6 10. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Classical"]
+[Result "*"]
+[ECO "D85"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 O-O 8.
+Be2 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Classical"]
+[Result "*"]
+[ECO "D85"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 O-O 8.
+Rb1 c5 9. Be2 b6 10. O-O Bb7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Classical"]
+[Result "*"]
+[ECO "D85"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Gruenfeld, Classical"]
+[Result "*"]
+[ECO "D86"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D90"]
+[PlyCount "9"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 g6 5. cxd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D90"]
+[PlyCount "9"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 g6 5. Bf4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D94"]
+[PlyCount "17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 g6 5. e3 Bg7 6. Bd3 O-O 7. O-O Bg4 8. h3
+Bxf3 9. Qxf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D94"]
+[PlyCount "14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 g6 5. e3 Bg7 6. Be2 O-O 7. O-O a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D94"]
+[PlyCount "15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 g6 5. e3 Bg7 6. Be2 O-O 7. O-O dxc4 8. Bxc4
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Gambit, Slav"]
+[Result "*"]
+[ECO "D95"]
+[PlyCount "12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 g6 5. e3 Bg7 6. Qb3 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "E01"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. g3 cxd4 5. Nxd4 d5 6. Bg2 e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "E06"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "E06"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "E06"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O c6 7. Qc2 b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "E06"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. Qc2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "E06"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E08"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O c6 7. Qc2 Nbd7 8. b3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "E08"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O Nbd7 7. Qc2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E09"]
+[PlyCount "17"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O c6 7. Qc2 Nbd7 8. Nbd2
+b6 9. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Gambit Suite"]
+[Black "Blumenfeld Gambit"]
+[Result "*"]
+[ECO "E10"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Blumenfeld Gambit"]
+[Result "*"]
+[ECO "E10"]
+[PlyCount "6"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "E10"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. dxe6 fxe6 6. cxb5 d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "E10"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. e3 cxd4 5. exd4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "E10"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. Bg5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E11"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E11"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E11"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E11"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Bg2 Bxd2+ 7. Nbxd2 d6 8.
+O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E11"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. a3 Bxd2+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E11"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 O-O 6. Bg2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E11"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E11"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. a3 Bxd2+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E11"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Bg2 Bxd2+ 7. Nbxd2 d6 8.
+O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E11"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E11"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 O-O 6. Bg2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E11"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Ba6 5. Qc2 Bb7 6. Nc3 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. Qc2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. e3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Qc2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. Bg5 Be7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 Be7 6. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 exd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 Be7 6. e3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. e3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 exd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. Bg5 Be7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 Be7 6. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 h6 6. Bh4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "7"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Bg5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. Nd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E13"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. e3 h6 7. Bh4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E14"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E14"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. e3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E14"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Catalan, Closed"]
+[Result "*"]
+[ECO "E14"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. e3 b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E15"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E15"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E15"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E15"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E15"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 b5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E15"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E15"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
+d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E15"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qb3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E15"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E15"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E15"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Queen's Indian"]
+[Result "*"]
+[ECO "E15"]
+[PlyCount "7"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E16"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E16"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E17"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. d5 exd5 8. Nh4
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E17"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Bd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E17"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E18"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Bd2
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E18"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E18"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 d5 8. cxd5
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E18"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 d5 8. Ne5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E19"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 f5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E19"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E20"]
+[PlyCount "7"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E20"]
+[PlyCount "7"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian"]
+[Result "*"]
+[ECO "E20"]
+[PlyCount "7"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian"]
+[Result "*"]
+[ECO "E20"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 O-O 5. Bg2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian"]
+[Result "*"]
+[ECO "E20"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian"]
+[Result "*"]
+[ECO "E20"]
+[PlyCount "7"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E21"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E21"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Qb3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "?"]
+[Result "*"]
+[ECO "E22"]
+[PlyCount "7"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian"]
+[Result "*"]
+[ECO "E22"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian"]
+[Result "*"]
+[ECO "E24"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian"]
+[Result "*"]
+[ECO "E30"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian"]
+[Result "*"]
+[ECO "E30"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian"]
+[Result "*"]
+[ECO "E30"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian"]
+[Result "*"]
+[ECO "E32"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian"]
+[Result "*"]
+[ECO "E32"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b5 7. cxb5 c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian"]
+[Result "*"]
+[ECO "E32"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian, 4.Qc2"]
+[Result "*"]
+[ECO "E32"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian"]
+[Result "*"]
+[ECO "E33"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian"]
+[Result "*"]
+[ECO "E34"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian"]
+[Result "*"]
+[ECO "E38"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Bogo-Indian"]
+[Result "*"]
+[ECO "E43"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. e3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "Nimzo-Indian, Rubinstein"]
+[Result "*"]
+[ECO "E53"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian with g3"]
+[Result "*"]
+[ECO "E62"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d6 6. Bg2 Nc6 7. O-O e5 8. d5
+Ne7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian with g3"]
+[Result "*"]
+[ECO "E62"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d6 6. Bg2 Nc6 7. O-O Bf5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian with g3"]
+[Result "*"]
+[ECO "E62"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d6 6. Bg2 c6 7. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian with g3"]
+[Result "*"]
+[ECO "E63"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d6 6. Bg2 Nc6 7. O-O a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian, Fianchetto"]
+[Result "*"]
+[ECO "E66"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 Nbd7 7. O-O e5 8. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian with g3"]
+[Result "*"]
+[ECO "E68"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d6 6. Bg2 Nbd7 7. O-O e5 8. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian"]
+[Result "*"]
+[ECO "E70"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian"]
+[Result "*"]
+[ECO "E70"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 O-O 6. Ng3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian with h3"]
+[Result "*"]
+[ECO "E71"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Averbakh"]
+[Result "*"]
+[ECO "E73"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 h6 7. Be3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Averbakh"]
+[Result "*"]
+[ECO "E73"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Averbakh Na6"]
+[Result "*"]
+[ECO "E73"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 Na6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Averbakh"]
+[Result "*"]
+[ECO "E74"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian four pawns"]
+[Result "*"]
+[ECO "E76"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian four pawns"]
+[Result "*"]
+[ECO "E76"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 Na6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Saemisch"]
+[Result "*"]
+[ECO "E81"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. dxc5 dxc5 8. Qxd8
+Rxd8 9. Bxc5 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Saemisch"]
+[Result "*"]
+[ECO "E81"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Saemisch"]
+[Result "*"]
+[ECO "E81"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Saemisch"]
+[Result "*"]
+[ECO "E81"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c6 7. Qd2 a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Saemisch"]
+[Result "*"]
+[ECO "E81"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Saemisch"]
+[Result "*"]
+[ECO "E83"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Saemisch"]
+[Result "*"]
+[ECO "E85"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian, Saemisch"]
+[Result "*"]
+[ECO "E86"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Saemisch"]
+[Result "*"]
+[ECO "E87"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2 f5
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Saemisch"]
+[Result "*"]
+[ECO "E88"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E92"]
+[PlyCount "21"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8. Bg5
+f6 9. Bh4 Nc6 10. d5 Ne7 11. Nd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E92"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8. Bg5
+f6 9. Bh4 g5 10. Bg3 Nh6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E92"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. Bg5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E92"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 9. Bg5 c6 10. Nxe5 Re8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E92"]
+[PlyCount "19"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 9. Bg5 Re8 10. O-O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E92"]
+[PlyCount "17"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8. Bg5
+f6 9. Bc1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E92"]
+[PlyCount "23"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 9. Bg5 Re8 10. Nd5 Nxd5 11. cxd5 c6 12. Bc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E93"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E94"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Qc2
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E94"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Na6 8. Be3
+Ng4 9. Bg5 Qe8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E94"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Na6 8. Re1
+c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E94"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Be3
+Qe7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E94"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Be3
+c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E94"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Be3
+Re8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E94"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Na6 8. Re1
+Qe8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E94"]
+[PlyCount "15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8. Be3
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E94"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Na6 7. O-O e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E94"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Na6 8. Be3
+c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E94"]
+[PlyCount "17"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O exd4 8. Nxd4
+Re8 9. f3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E94"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8. d5
+Nc5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E95"]
+[PlyCount "17"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Re1
+c6 9. Bf1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E95"]
+[PlyCount "17"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Re1
+Re8 9. Bf1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E95"]
+[PlyCount "17"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8. Re1
+c6 9. Bf1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. Be3
+Ng4 9. Bg5 f6 10. Bh4 Nh6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. Be3
+Ng4 9. Bg5 f6 10. Bh4 g5 11. Bg3 Nh6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. Be3
+Ng4 9. Bg5 f6 10. Bc1 f5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. Be3
+Ng4 9. Bg5 f6 10. Bh4 h5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "23"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. g3 f5 11. Ng5 Nf6 12. f3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "19"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. Re1 a5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "21"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "21"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. Re1 Nf4 11. Bf1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "19"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 a5 10. a3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 Ne8 10. b4 f5 11. c5 Nf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. Rb1 Ne8 11. b4 b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 a5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Ne8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian, Classical"]
+[Result "*"]
+[ECO "E99"]
+[PlyCount "24"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E99"]
+[PlyCount "24"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E99"]
+[PlyCount "24"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E99"]
+[PlyCount "28"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 13. c5 g5 14. Rc1 Ng6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E99"]
+[PlyCount "26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 13. g4 g5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E99"]
+[PlyCount "22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. g4 Kh8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E99"]
+[PlyCount "21"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. g4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E99"]
+[PlyCount "24"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Silver Suite"]
+[Black "King's Indian Classical"]
+[Result "*"]
+[ECO "E99"]
+[PlyCount "25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 13. c5 *
+

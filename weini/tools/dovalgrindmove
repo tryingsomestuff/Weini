@@ -1,0 +1,12 @@
+#!/bin/bash
+
+dir=$(readlink -f $(dirname $0)/../)
+
+cd $dir
+
+\rm callgrind*
+
+g++ -g -O3 -flto --std=c++11 src/*.cpp -Iheader -lpthread
+#valgrind --tool=callgrind ./a.out -movegenerator
+time valgrind --main-stacksize=83886080 --tool=callgrind  ./a.out -generator "start" 3
+
