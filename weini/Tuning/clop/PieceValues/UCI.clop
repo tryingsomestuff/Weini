@@ -1,0 +1,34 @@
+Name CLOPUCI
+Script ./CLOPUCI
+
+# IntegerParameter pawno -200 200
+# IntegerParameter pawne -200 200
+# IntegerParameter knighto -200 200
+# IntegerParameter knighte -200 200
+# IntegerParameter bishopo -200 200
+# IntegerParameter bishope -200 200
+# IntegerParameter rooko -200 200
+# IntegerParameter rooke -200 200
+# IntegerParameter queeno -200 200
+# IntegerParameter queene -200 200
+# IntegerParameter bishopo -150 150
+# IntegerParameter bishope -150 150
+# IntegerParameter matero 0 1000
+# IntegerParameter matere 0 1000
+
+IntegerParameter pawnv   0  300
+IntegerParameter knightv 0 1000
+IntegerParameter bishopv 0 1000
+IntegerParameter rookv   0 1500
+IntegerParameter queenv  0 3000
+
+Processor cpu1
+Processor cpu2
+Processor cpu3
+Processor cpu4
+
+Replications 2
+DrawElo 100
+
+H 3
+Correlations all

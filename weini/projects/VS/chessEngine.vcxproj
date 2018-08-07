@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\header\analyse.h" />
+    <ClInclude Include="..\..\header\bitboard.h" />
+    <ClInclude Include="..\..\header\book.h" />
+    <ClInclude Include="..\..\header\CLI.h" />
+    <ClInclude Include="..\..\header\color.h" />
+    <ClInclude Include="..\..\header\com.h" />
+    <ClInclude Include="..\..\header\dbg.h" />
+    <ClInclude Include="..\..\header\definitions.h" />
+    <ClInclude Include="..\..\header\ExtendedPosition.h" />
+    <ClInclude Include="..\..\header\fastContainer.h" />
+    <ClInclude Include="..\..\header\game.h" />
+    <ClInclude Include="..\..\header\line.h" />
+    <ClInclude Include="..\..\header\logger.hpp" />
+    <ClInclude Include="..\..\header\memoryPool.h" />
+    <ClInclude Include="..\..\header\memoryPool.hpp" />
+    <ClInclude Include="..\..\header\move.h" />
+    <ClInclude Include="..\..\header\moveGenerator.h" />
+    <ClInclude Include="..\..\header\node.h" />
+    <ClInclude Include="..\..\header\picojson.h" />
+    <ClInclude Include="..\..\header\Piece.h" />
+    <ClInclude Include="..\..\header\player.h" />
+    <ClInclude Include="..\..\header\position.h" />
+    <ClInclude Include="..\..\header\position.hpp" />
+    <ClInclude Include="..\..\header\search.h" />
+    <ClInclude Include="..\..\header\setup.h" />
+    <ClInclude Include="..\..\header\sort.h" />
+    <ClInclude Include="..\..\header\square.h" />
+    <ClInclude Include="..\..\header\stats.h" />
+    <ClInclude Include="..\..\header\test.h" />
+    <ClInclude Include="..\..\header\thread.h" />
+    <ClInclude Include="..\..\header\thread.hpp" />
+    <ClInclude Include="..\..\header\timeman.h" />
+    <ClInclude Include="..\..\header\ttable.h" />
+    <ClInclude Include="..\..\header\uci.h" />
+    <ClInclude Include="..\..\header\util.h" />
+    <ClInclude Include="..\..\header\UtilMove.h" />
+    <ClInclude Include="..\..\header\UtilPosition.h" />
+    <ClInclude Include="..\..\header\version.h" />
+    <ClInclude Include="..\..\header\xboard.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\analyse.cpp" />
+    <ClCompile Include="..\..\src\bitboard.cpp" />
+    <ClCompile Include="..\..\src\book.cpp" />
+    <ClCompile Include="..\..\src\CLI.cpp" />
+    <ClCompile Include="..\..\src\com.cpp" />
+    <ClCompile Include="..\..\src\definitions.cpp" />
+    <ClCompile Include="..\..\src\ExtendedPosition.cpp" />
+    <ClCompile Include="..\..\src\fastContainer.cpp" />
+    <ClCompile Include="..\..\src\game.cpp" />
+    <ClCompile Include="..\..\src\line.cpp" />
+    <ClCompile Include="..\..\src\logger.cpp" />
+    <ClCompile Include="..\..\src\main.cpp" />
+    <ClCompile Include="..\..\src\move.cpp" />
+    <ClCompile Include="..\..\src\moveGenerator.cpp" />
+    <ClCompile Include="..\..\src\negamax.cpp" />
+    <ClCompile Include="..\..\src\negaquiesce.cpp" />
+    <ClCompile Include="..\..\src\node.cpp" />
+    <ClCompile Include="..\..\src\player.cpp" />
+    <ClCompile Include="..\..\src\position.cpp" />
+    <ClCompile Include="..\..\src\search.cpp" />
+    <ClCompile Include="..\..\src\see.cpp" />
+    <ClCompile Include="..\..\src\setup.cpp" />
+    <ClCompile Include="..\..\src\square.cpp" />
+    <ClCompile Include="..\..\src\stats.cpp" />
+    <ClCompile Include="..\..\src\test.cpp" />
+    <ClCompile Include="..\..\src\thread.cpp" />
+    <ClCompile Include="..\..\src\timeman.cpp" />
+    <ClCompile Include="..\..\src\ttable.cpp" />
+    <ClCompile Include="..\..\src\uci.cpp" />
+    <ClCompile Include="..\..\src\util.cpp" />
+    <ClCompile Include="..\..\src\UtilMove.cpp" />
+    <ClCompile Include="..\..\src\UtilPosition.cpp" />
+    <ClCompile Include="..\..\src\version.cpp" />
+    <ClCompile Include="..\..\src\xboard.cpp" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{605FCB48-9EE7-4E52-A4EC-2898771B587C}</ProjectGuid>
+    <RootNamespace>chessEngine</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>../../header</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_MBCS;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>../../header;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_MBCS;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <OpenMPSupport>true</OpenMPSupport>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>../../header</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_MBCS;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <Profile>true</Profile>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Full</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>../../header;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <PreprocessorDefinitions>_MBCS;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <OpenMPSupport>true</OpenMPSupport>
+      <EnableEnhancedInstructionSet>StreamingSIMDExtensions2</EnableEnhancedInstructionSet>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <StructMemberAlignment>2Bytes</StructMemberAlignment>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <Profile>true</Profile>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

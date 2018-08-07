@@ -1,0 +1,64 @@
+#!/bin/bash
+if [[ -z "$DEBUG_BT" ]]; then
+  DEBUG_BT=1
+else
+  DEBUG_BT=0;
+fi
+
+if [ -z "$1" -o -z "$2" ]
+then
+  echo ""
+  echo "This tool provides the 'sourcefile::line' information for a given level of the backtrace."
+  echo "Usage $0 objfile mangledstring"
+  echo ""
+  echo "objfile and manglestring are taken from one line of the backtrace output, as follow :"
+  echo ""
+  echo "If it is a main :"
+  echo ""
+  echo "   objfile         path of the binary (compiled with -g)"
+  echo "   mangledstring   string in brackets"
+  echo ""
+  echo "If it is a library :"
+  echo ""
+  echo "   objfile         path of the dynamic library (compiled with -g)"
+  echo "   mangledstring   string in parentheses, something like (blabla+wsdfgljkq)"
+  echo ""
+  echo "example  : backtraceLine.sh GIREF/lib/unified64-RHEL6-Pgi14.7/libgiref_dev_Formulation.so _ZN10ProblemeGD26asgnParametresEtInitialiseER17CollectionDeCorpsRKSs+0x33c"
+  echo "output   : | ProblemeGD::asgnParametresEtInitialise(CollectionDeCorps&, std::string const&)"
+  echo "           | GIREF/src/commun/Formulation/ProblemeGD.cc:994 "
+  exit 1
+fi
+
+file=$1
+if [[ $DEBUG_BT == "1" ]]; then echo "File is $file" ;fi
+mangled=$2
+if [[ $DEBUG_BT == "1" ]]; then echo "Mangled is $mangled"; fi
+
+if [ ! -e "$file" ]
+then
+   echo "File missing : $file"
+   exit 1
+fi
+
+mangledoffset=$(echo $mangled | rev | cut -d+ -f1 | rev)
+if [[ $DEBUG_BT == "1" ]]; then echo "Mangled offset is $mangledoffset"; fi
+mangled=$(echo $mangled | cut -d+ -f1)
+
+nmaddr=0x0
+
+if [ -n "$mangled" ]; then
+   if [[ $DEBUG_BT == "1" ]]; then echo "Mangled alone is $mangled"; fi
+
+   nmres=$(nm -Dlan $file | grep $mangled)
+   if [[ $DEBUG_BT == "1" ]]; then echo "Nm result is $nmres"; fi
+
+   nmaddr="0x$(echo $nmres | cut -d' '  -f1)"
+   if [[ $DEBUG_BT == "1" ]]; then echo "Nm addr is $nmaddr"; fi
+fi
+
+addr=$(printf '0x%x\n' $(( $mangledoffset + $nmaddr)) )
+if [[ "$DEBUG_BT" == "1" ]]; then echo "Addr is $addr"; fi
+
+#echo "addr2line -Cifp -e $file $addr"
+addr2line -Cifp -e $file $addr
+

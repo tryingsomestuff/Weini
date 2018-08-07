@@ -1,0 +1,13 @@
+#!/bin/bash
+
+dir=$(readlink -f $(dirname $0)/../)
+
+cd $dir
+
+g++ -pg -O1 --std=c++11 src/*.cpp -Iheader -lpthread
+#./a.out -movegenerator
+./a.out -analysis "r4rk1/1pp1qppp/p1np1n2/2b1p1B1/2B1P1b1/P1NP1N2/1PP1QPPP/R4RK1 w - - 0 10" 7
+#./a.out # book loading only
+gprof a.out | gprof2dot | dot -Tpng -o prof.png
+gprof a.out > prof.txt
+
