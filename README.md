@@ -108,7 +108,7 @@ Only releases (often just before or after HGM monthly tournament) are available 
 
 ## How to compile
 
-Simply use CMake to compile. Or build the command line by yourself, something like `g++ src/*.cpp -Iheader/ --std=c++11 -msse4.2 -O3 -mpopcnt -flto -o weini` or any optimization you think shall be profitable ...
+Simply use CMake to compile. Or build the command line by yourself, something like `g++ src/*.cpp -Iheader/ -Idep/ --std=c++11 -msse4.2 -O3 -mpopcnt -flto -o weini` or any optimization you think shall be profitable ...
 
 As been built on linux (g++ >= 4.8, clang) and Windows (visual studio >=17, or last version of cygwin).
 
