@@ -4,13 +4,13 @@
 Project started : december 2016  
 Language : C++11  
 Compiles on both Linux (CMake, no extra dependency needed) and Windows (Visual Studio 17, CYGWIN)  
-(a corss-compiled mingw has also been tested successfully)
+(a cross-compiled mingw version has also been tested successfully)
 
 *Weini* is the chess engine I develop just for fun and learn about chess programming.
 A lots of ideas are taken from _chessprogramming wiki_ and _talkchess_ forum. 
 Many thanks to all the chess programming community for being so kind and interesseting.
 
-Here's a list of inspiring open-source engines :
+Here's an incomplete list of inspiring open-source engines :
 * Arasan by Jon Dart
 * CPW by Pawel Koziol and Edmund Moshammer
 * Deepov by Romain Goussault 
@@ -182,5 +182,10 @@ You can of course gives your own book as soon as it is using the good format, wh
 
 *Weini* has some little tests facilities inside : `./weini -t help` will be helpfull. Somes classic analysis tests (BT2630, Arasan, CCROH, BK, KM, STS, ...) and some "unitary" tests (but the code coverage is bad ...)
 
+A fun command to launch an analysis by hand
+
+`./weini -t "analysis :rn2kb1r/pp2pppp/1qP2n2/8/6b1/1Q6/PP1PPPBP/RNB1K1NR b KQkq - 1 6: 40"`
+
+See how the fen string is given between ":".
 
 
