@@ -36,7 +36,7 @@ Only releases (often just before or after HGM monthly tournament) are available 
 
 *Weini* is using mostly all the classic stuff :
 
-* Multi-threads (lazySMP)
+* Multi-threads (lazySMP, up to 20 threads)
 * alpha-beta framework (negamax)  
     * PVS (root and alpha-beta)  
     * Aspiration window  
