@@ -174,7 +174,7 @@ This is usefull when using clop for example !
 *Weini* does not support classic opening book formats, nor classic endgame table formats.
 But *Weini* comes with 2 books : a "simple" one, very small and hard coded, and a bigger one named "book3.pgn" (although this is not really a pgn file ... sorry). All of this is easily configurable using the *config.json* file.
 
-Ascii books are long to read, so *Weini* will convert the book to a binary one as soon as it reads it for the first time and then will then use the binary one forever.
+Ascii books are long to read, so *Weini* will convert the book to a binary one as soon as it reads it for the first time and then will use the binary one forever.
 
 You can of course gives your own book as soon as it is using the good format, which is a "line" each line and moves separated by a simple space written in (english) algebraic notation.
 
