@@ -115,7 +115,7 @@ As been built on linux (g++ >= 4.8, clang) and Windows (visual studio >=17, or l
 ## How to run
 
 `weini --xboard` or `weini -x` in your favorite GUI (Xboard/Winboard for example).
-**Be carrefull** the command line has change since release 0.0.22, now a double "-" is needed for the "long" version of the argument. 
+**Be carrefull** the command line has changed since release 0.0.22, now a double "-" is needed for the "long" version of the argument. 
 
 ## Other options
 
