@@ -1,0 +1,9 @@
+#!/bin/bash
+
+dir=$(readlink -f $(dirname $0)/../)
+
+cd $dir
+
+g++ -ggdb -O3 -flto --std=c++11 src/*.cpp -Iheader -lpthread
+perf record ./a.out -analysis "r1bqkb1r/pp3ppp/1np1pn2/6N1/2BP4/8/PPP1QPPP/R1B1K1NR w KQkq - 2 8" 9
+perf annotate -d ./a.out

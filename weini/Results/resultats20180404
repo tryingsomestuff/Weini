@@ -1,0 +1,40 @@
+2
+>    "evalWithBadBishop": true,
+3
+>    "evalWithPiecePair": true,
+4
+>    "evalWithBlockedPiece": true,
+5
+>    "evalWithRookOnOpenFile": true,
+6
+>    "evalWithPawnStructure": true,
+7
+>    "evalWithPawnStructure2": true,
+8
+>    "evalWithSpace": true,
+9
+>    "evalWithKingTroppism": true,
+10
+>    "evalWithKingTroppism": false,
+>    "evalWithSpace": false,
+>    "evalWithBadBishop": false,
+11
+>    "evalWithKingTroppism": true,
+>    "evalWithSpace": true,
+>    "evalWithBadBishop": true,
+
+
+Rank Name                          Elo     +/-   Games   Score   Draws
+1 fairymax                       55      19     924   57.9%   29.0%
+2 weini5                         30      18     924   54.3%   38.6%
+3 weini8                         29      18     924   54.1%   36.1%
+4 weini10                        18      18     924   52.5%   35.2%
+5 weini6                         15      18     924   52.2%   37.9%
+6 weini7                          6      18     924   50.9%   38.5%
+7 weini4                         -9      18     924   48.8%   37.8%
+8 weiniRef                      -15      18     924   47.8%   37.8%
+9 weini3                        -16      18     924   47.7%   37.2%
+10 weini2                        -29      17     924   45.9%   39.6%
+11 weini1                        -32      18     924   45.4%   39.1%
+12 weini9                        -52      18     924   42.6%   36.9%
+5544 of 6600 games finished.

@@ -1,0 +1,10 @@
+#!/bin/bash
+export CC=
+export CXX=
+cd $(dirname $0)/..
+rm -rf CMakeCache.txt CMakeFiles CMakeBuild bin/weini
+mkdir -p CMakeBuild
+cmake -BCMakeBuild -H.
+cd CMakeBuild
+make
+cd -

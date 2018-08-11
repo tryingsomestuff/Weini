@@ -1,0 +1,30 @@
+Rank	Name	Elo	+/-	Games	Score	Draws		
+1	15	97	26	543	63.6%	24.1%	transpositionTableQSort	
+2	22	81	25	544	61.4%	28.3%	checkExtensionAlphaBeta	
+3	25	71	25	543	60.1%	28.9%	ReCaptureExtensionSearch	
+4	14	67	26	543	59.5%	22.1%	transpositionTableSort	
+5	12	58	26	543	58.3%	23.0%	historyHeuristic	
+6	24	54	24	544	57.7%	31.3%	NearPromotionExtensionSearch	
+7	20	54	25	543	57.6%	29.8%	checkExtensionRoot	
+8	19	53	24	543	57.6%	33.3%	transpositionTableEvalPawn	pas utilisé !
+9	18	48	24	542	56.8%	32.5%	transpositionTableEval	
+10	23	45	25	543	56.4%	27.4%	NearPromotionExtensionAlphaBeta	trop souvent 
+11	21	41	23	543	55.9%	35.9%	checkExtensionSearch	
+12	13	38	25	543	55.4%	25.0%	counterHeuristic	"""-1"" à cause castling"
+13	17	32	24	543	54.6%	33.3%	transpositionTableAlphaBeta	
+14	11	28	25	543	54.1%	25.6%	killerHeuristic	
+15	16	10	25	543	51.5%	24.9%	transpositionTableSearch	draw?
+16	27	10	25	543	51.4%	27.3%	SingleReplyExtensionSearch	
+17	10	9	26	543	51.3%	23.8%	captureLastMovedBonus	
+18	30	-4	25	543	49.4%	28.9%	razoring	
+19	29	-4	24	543	49.4%	30.4%	futilityPruning	
+20	26	-8	25	544	48.8%	27.0%	ReCaptureExtensionAlphaBeta	trop lourd
+21	28	-11	25	544	48.4%	29.6%	PVExtensionSearch	
+22	8	-20	26	543	47.1%	23.8%	internaliterativeDeepening	
+23	4	-40	26	543	44.3%	22.3%	aspirationwindow	
+24	6	-54	26	543	42.4%	19.5%	pvsAlphaBeta	
+25	7	-54	26	542	42.3%	23.6%	nullMovePruning	
+26	5	-64	27	542	41.0%	18.8%	pvsRoot	
+27	3	-110	27	544	34.7%	19.3%	qsortmvvlva	
+28	2	-154	28	542	29.2%	21.8%	sortmvvlva	
+29	1	-385	42	543	9.9%	9.8%		
