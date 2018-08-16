@@ -1,0 +1,132 @@
+Rank Name                          Elo     +/-   Games   Score   Draws
+1 Horizon_4_4                   350      41     541   88.3%    9.1%
+2 weini3                         37      25     541   55.3%   30.3%
+3 weini5                         33      24     541   54.7%   31.8%
+4 weini8                         30      24     542   54.3%   30.8%
+5 weini9                         19      24     542   52.8%   30.6%
+6 weini14                        16      24     541   52.3%   31.4%
+7 weini1                         14      24     542   52.0%   30.6%
+8 weini4                         10      24     541   51.4%   30.7%
+9 weini13                        -6      24     541   49.1%   33.5%
+10 weini10                       -13      24     541   48.2%   31.2%
+11 fairymax                      -35      26     542   45.0%   23.6%
+12 weini2                        -35      24     541   44.9%   31.4%
+13 weini11                       -41      25     541   44.2%   28.8%
+14 weini6                        -46      25     542   43.5%   28.6%
+15 weini7                       -130      25     542   32.1%   30.3%
+16 weini12                      -130      26     541   32.1%   26.1%
+
+					 4331 of 12000 games finished.
+
+
+2
+119c119
+<    "xboardForceNoPonder": false,
+---
+>    "xboardForceNoPonder": true,
+3
+98c98
+<    "evalWithPawnStructure3": false,
+---
+>    "evalWithPawnStructure3": true,
+119c119
+<    "xboardForceNoPonder": true,
+---
+>    "xboardForceNoPonder": false,
+4
+62c62
+<    "bonusCandidatePassedPawn": 10,
+---
+>    "bonusCandidatePassedPawn": 20,
+5
+62c62
+<    "bonusCandidatePassedPawn": 20,
+---
+>    "bonusCandidatePassedPawn": 10,
+98c98
+<    "evalWithPawnStructure3": true,
+---
+>    "evalWithPawnStructure3": false,
+106c106
+<    "evalWithTradeOffBonus": false,
+---
+>    "evalWithTradeOffBonus": true,
+6
+47c47
+<    "tradeOffPieceBonusFactor": 5,
+---
+>    "tradeOffPieceBonusFactor": 15,
+7
+47c47
+<    "tradeOffPieceBonusFactor": 15,
+---
+>    "tradeOffPieceBonusFactor": 25,
+8
+47,48c47,48
+<    "tradeOffPieceBonusFactor": 25,
+<    "tradeOffPawnBonusFactor": 5,
+---
+>    "tradeOffPieceBonusFactor": 5,
+>    "tradeOffPawnBonusFactor": 15,
+9
+48c48
+<    "tradeOffPawnBonusFactor": 15,
+---
+>    "tradeOffPawnBonusFactor": 25,
+10
+48c48
+<    "tradeOffPawnBonusFactor": 25,
+---
+>    "tradeOffPawnBonusFactor": 5,
+93c93
+<    "evalWithKingTroppism": false,
+---
+>    "evalWithKingTroppism": true,
+106c106
+<    "evalWithTradeOffBonus": true,
+---
+>    "evalWithTradeOffBonus": false,
+11
+86c86
+<    "kingTroppismValueFactor": 3,
+---
+>    "kingTroppismValueFactor": 10,
+12
+86c86
+<    "kingTroppismValueFactor": 10,
+---
+>    "kingTroppismValueFactor": 20,
+13
+86c86
+<    "kingTroppismValueFactor": 20,
+---
+>    "kingTroppismValueFactor": 3,
+93c93
+<    "evalWithKingTroppism": true,
+---
+>    "evalWithKingTroppism": false,
+121c121
+<    "LMR_STD": 5,
+---
+>    "LMR_STD": 4,
+14
+121c121
+<    "LMR_STD": 4,
+---
+>    "LMR_STD": 5,
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30

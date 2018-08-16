@@ -1,0 +1,14 @@
+#!/bin/bash
+
+dir=$(readlink -f $(dirname $0)/../)
+
+cd $dir
+
+\rm callgrind*
+
+g++ -g -O3 -flto --std=c++11 src/*.cpp -lpthread -Iheader -Idep
+#valgrind --tool=callgrind ./a.out -movegenerator
+time valgrind --tool=callgrind  ./a.out -t "analysis :r1bq1rk1/pp1n1ppp/2p2n2/3p1N2/4P3/2bB4/PPP2PPP/R1BQ1RK1 w - - 0 12: 14"
+#valgrind --tool=callgrind ./a.out # book loading only
+chmod 755 callgrind*
+

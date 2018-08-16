@@ -1,0 +1,6 @@
+#!/bin/bash
+
+dir=$(readlink -f $(dirname $0)/../)
+
+/usr/games/xboard -fcp "$dir/run1/weini --xboard"  -fd "$dir/run1" -scp "$dir/run2/weini -xboard"  -sd "$dir/run2" -tc 0:20 -ponder
+

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+dir=$(readlink -f $(dirname $0)/../)
+
+/usr/games/xboard -fcp "$dir/bin/weini --xboard"  -fd "$dir" -scp "/media/BK1/www/p/chessEngine/weini/other/tscp181b/tscp"  -sd "/media/BK1/www/p/chessEngine/weini/other/tscp181b" -tc 0:20 -mps 40 -ponder
+#-debug
+

@@ -1,0 +1,12 @@
+cat book1.pgn | grep -v ECO > book2.pgn
+cat book2.pgn | sed 's/[0-9]*\. //g' | sed 's/\*//g' | sed 's/  / /g' > book1.pgn
+cat book1.pgn | sed -e :a -e '$!N;s/\n\([0-9a-Z]\)/ \1/;ta' -e 'P;D' > book2.pgn
+cat book2.pgn | sed 's/O/0/g' > book1.pgn
+cat book1.pgn | sed 's/\([0-9a-Z]\)+\([0-9a-Z]\)/\1 \2/g' > book2.pgn
+cat book2.pgn | sed 's/  / /g' > book1.pgn
+cat book1.pgn | sed 's/+//g' > book2.pgn
+cat book2.pgn | sed 's/[0-9]*\.//g' | sed 's/  / /g' > book1.pgn
+
+#mv book2.pgn book1.pgn
+
+#cat book1.pgn | sed 's/\([0-9]\)\([0-9]\)/\1 \2/g' > book2.pgn
