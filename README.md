@@ -4,10 +4,12 @@
 Project started : december 2016  
 Language : C++11  
 Compiles on both Linux (CMake, no extra dependency needed) and Windows (Visual Studio 17, CYGWIN)  
-(a cross-compiled mingw version has also been tested successfully)
+(a cross-compiled mingw version has also been tested successfully)  
+
+Current release 0.0.24.  
 
 *Weini* is the chess engine I develop just for fun and learn about chess programming.
-A lots of ideas are taken from _chessprogramming wiki_ and _talkchess_ forum. 
+A lot of ideas are taken from _chessprogramming wiki_ and _talkchess_ forum. 
 Many thanks to all the chess programming community for being so kind and interesseting.
 
 Here's an incomplete list of inspiring open-source engines :
@@ -26,13 +28,13 @@ Here's an incomplete list of inspiring open-source engines :
 *Weini* is still under development and testing and not all the implemented features are validated.
 
 *Weini* comes with a highly tunable configuration file (in json format), and with good logging features. 
-The *config.json* file must be in the same directory as the executable.
+The *config.json* file must be in the same directory as the executable. *Weini* also comes with good statistic tracking features. 
 
 *Weini* is quite slow, move validation and attack detection are still more bullet proof than optimized ... *Weini* is using a mailbox structure as well as some very simple bitboards and uses the copy-make paradigm.
 
 Only releases (often just before or after HGM monthly tournament) are available here : https://github.com/tryingsomestuff/Weini/releases
 
-*Weini* makes use of the beautiful (very slightly modified) TCLAP header only library to parse the command line argument (inside the "dep" directory).
+*Weini* makes use of the beautiful (very slightly modified) TCLAP header only library to parse the command line argument (available inside the "dep" directory).
 
 *Weini* is using mostly all the classic stuff :
 
@@ -117,6 +119,8 @@ As been built on linux (g++ >= 4.8, clang) and Windows (visual studio >=17, or l
 `weini --xboard` or `weini -x` in your favorite GUI (Xboard/Winboard for example).
 **Be carrefull** the command line has changed since release 0.0.22, now a double "-" is needed for the "long" version of the argument. 
 
+**Be carrefull** since 0.0.24 option `allTtSize` can be used (in *config.json* or using the command option) to set the memory used by all TT combined (value shall be given in Mb). Proportion of other options like `ttSize` or `ttQSize` will be respected and can thus be seen as percentage or Mb... To use manual mode set `allTtSize` to 0 and be sure to use Mb values in others TT options.  
+
 ## Other options
 
 Just ask !
@@ -157,15 +161,15 @@ Where:
      Displays usage information and exits.
 ```
 
-Every options from the *config.json* file can be override by hand from the command line
+Every options from the *config.json* file can be override by hand from the command line. For example
 
-`./weini -x -o "ttsize 36"`
+`./weini -x -o "allTtSize 36"`
 
-can be use to set a 36Mb TT by hand. This is usefull for running bench without changing the configuration file.
+can be use to set a 36Mb limit for all TT by hand. This is usefull for running bench without changing the configuration file.
 
 Every options from the *config.json* file can also be override using xboard command "setoption" ; the same example
 
-`setoption ttsize 36`
+`setoption allTtSize 36`
 
 This is usefull when using clop for example !
 
