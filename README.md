@@ -28,7 +28,7 @@ Here's an incomplete list of inspiring open-source engines :
 *Weini* is still under development and testing and not all the implemented features are validated.
 
 *Weini* comes with a highly tunable configuration file (in json format), and with good logging features. 
-The *config.json* file must be in the same directory as the executable. *Weini* also comes with good statistic tracking features. 
+The *config.json* file must be in the same directory as the executable. *Weini* also comes with good statistic tracking features (enable using `-DWITH_STATS` during compilation). 
 
 *Weini* is quite slow, move validation and attack detection are still more bullet proof than optimized ... *Weini* is using a mailbox structure as well as some very simple bitboards and uses the copy-make paradigm.
 
