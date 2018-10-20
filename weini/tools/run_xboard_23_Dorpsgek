@@ -1,0 +1,6 @@
+#!/bin/bash
+
+dir=$(readlink -f $(dirname $0)/../)
+
+/usr/games/xboard -fcp "$dir/release/weini_0.0.23/weini_linux_gcc_6.3.0_popcnt_x64_0.0.23 --xboard" -fd "$dir/release/weini_0.0.23" -scp "/media/BK1/www/p/chessEngine/weini/other/Dorpsgek-Eves-Temptation/dorpsgek"  -sd "/media/BK1/www/p/chessEngine/weini/other/Dorpsgek-Eves-Temptation" -tc 0:20 -mps 40 -xponder
+#-debug

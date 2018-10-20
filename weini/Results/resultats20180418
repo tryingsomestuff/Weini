@@ -1,0 +1,174 @@
+2
+103c103
+<    "evalWithTradeOffBonus": false,
+---
+>    "evalWithTradeOffBonus": true,
+3
+47c47
+<    "tradeOffPieceBonusFactor": 5,
+---
+>    "tradeOffPieceBonusFactor": 15,
+4
+47c47
+<    "tradeOffPieceBonusFactor": 15,
+---
+>    "tradeOffPieceBonusFactor": 25,
+5
+47,48c47,48
+<    "tradeOffPieceBonusFactor": 25,
+<    "tradeOffPawnBonusFactor": 5,
+---
+>    "tradeOffPieceBonusFactor": 5,
+>    "tradeOffPawnBonusFactor": 15,
+6
+48c48
+<    "tradeOffPawnBonusFactor": 15,
+---
+>    "tradeOffPawnBonusFactor": 25,
+7
+48c48
+<    "tradeOffPawnBonusFactor": 25,
+---
+>    "tradeOffPawnBonusFactor": 5,
+103,104c103,104
+<    "evalWithTradeOffBonus": true,
+<    "evalWithNoPawnPenalty": false,
+---
+>    "evalWithTradeOffBonus": false,
+>    "evalWithNoPawnPenalty": true,
+8
+49c49
+<    "noPawnMalus": 30,
+---
+>    "noPawnMalus": 20,
+9
+49c49
+<    "noPawnMalus": 20,
+---
+>    "noPawnMalus": 10,
+10
+49c49
+<    "noPawnMalus": 10,
+---
+>    "noPawnMalus": 50,
+11
+91c91
+<    "evalWithKingTroppism": false,
+---
+>    "evalWithKingTroppism": true,
+104c104
+<    "evalWithNoPawnPenalty": true,
+---
+>    "evalWithNoPawnPenalty": false,
+12
+84c84
+<    "kingTroppismValueFactor": 3,
+---
+>    "kingTroppismValueFactor": 5,
+13
+84c84
+<    "kingTroppismValueFactor": 5,
+---
+>    "kingTroppismValueFactor": 10,
+14
+84c84
+<    "kingTroppismValueFactor": 10,
+---
+>    "kingTroppismValueFactor": 3,
+91c91
+<    "evalWithKingTroppism": true,
+---
+>    "evalWithKingTroppism": false,
+102c102
+<    "evalWithPawnStorm": false,
+---
+>    "evalWithPawnStorm": true,
+15
+36c36
+<    "stormFactor" : 10,
+---
+>    "stormFactor" : 20,
+16
+36c36
+<    "stormFactor" : 20,
+---
+>    "stormFactor" : 5,
+17
+36c36
+<    "stormFactor" : 5,
+---
+>    "stormFactor" : 50,
+18
+97c97
+<    "evalWithPawnShield": false,
+---
+>    "evalWithPawnShield": true,
+102c102
+<    "evalWithPawnStorm": true,
+---
+>    "evalWithPawnStorm": false,
+19
+34c34
+<    "kingSafetyFactor": 10,
+---
+>    "kingSafetyFactor": 20,
+20
+34c34
+<    "kingSafetyFactor": 20,
+---
+>    "kingSafetyFactor": 5,
+21
+34c34
+<    "kingSafetyFactor": 5,
+---
+>    "kingSafetyFactor": 2,
+22
+97c97
+<    "evalWithPawnShield": true,
+---
+>    "evalWithPawnShield": false,
+185c185
+<    "threads": 1,
+---
+>    "threads": 2,
+23
+185c185
+<    "threads": 2,
+---
+>    "threads": 3,
+24
+185c185
+<    "threads": 3,
+---
+>    "threads": 4,
+
+
+Rank Name                          Elo     +/-   Games   Score   Draws
+1 Horizon_4_4                   382      55     355   90.0%    7.0%
+2 weini23                        92      32     355   63.0%   25.6%
+3 weini24                        82      32     355   61.5%   26.8%
+4 weini19                        30      30     354   54.2%   32.8%
+5 weini22                        28      31     355   54.1%   28.2%
+6 weini9                         23      30     355   53.2%   32.7%
+7 weini20                        20      30     354   52.8%   31.1%
+8 weini2                         20      30     354   52.8%   31.1%
+9 weini21                        18      30     355   52.5%   31.8%
+10 weini5                         13      30     355   51.8%   32.7%
+11 weini18                         3      30     354   50.4%   30.8%
+12 weini8                          3      30     355   50.4%   32.1%
+13 weini16                        -2      30     354   49.7%   30.5%
+14 weini1                        -10      30     355   48.6%   33.5%
+15 fairymax                      -15      31     355   47.9%   25.4%
+16 weini7                        -20      30     355   47.2%   29.6%
+17 weini6                        -22      30     355   46.9%   31.8%
+18 weini14                       -23      29     354   46.8%   34.2%
+19 weini17                       -24      30     354   46.6%   33.3%
+20 weini10                       -32      30     354   45.3%   33.1%
+21 weini12                       -56      30     354   41.9%   33.1%
+22 weini15                       -60      30     354   41.4%   33.6%
+23 weini11                       -61      30     354   41.2%   30.5%
+24 weini3                        -64      30     355   40.8%   32.7%
+25 weini13                       -79      31     354   38.8%   30.8%
+26 weini4                       -150      32     355   29.7%   27.9%
+
+				     4609 of 32500 games finished.

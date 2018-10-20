@@ -1,0 +1,66 @@
+#
+# DummyExperiment.clop
+#
+# Example of experiment definition
+#
+
+# Name &#40;used for .log and .dat files&#41;
+Name test
+
+# Script for running a game. See DummyScript.py for details.
+Script /mnt/BK1/project/chessEngine/weini/cutechess/cutechess-cli/clop-cutechess-cli.py
+
+# Parameter&#40;s&#41; to be optimized
+# <parameter_type> <name> <min> <max>
+# <parameter_type> may be&#58;
+#  LinearParameter
+#  IntegerParameter
+#  GammaParameter
+#  IntegerGammaParameter
+# For GammaParameter, quadratic regression is performed on log&#40;x&#41;
+# Warning&#58; 123 and not 123.0 should be used for IntegerParameter
+IntegerParameter queenValue 200 2000
+IntegerParameter rookValue 200 1500
+IntegerParameter bishopValue 200 1000
+IntegerParameter knightValue 200 1000
+IntegerParameter queenEGValue 200 2000
+IntegerParameter rookEGValue 200 1500
+IntegerParameter bishopEGValue 200 1000
+IntegerParameter knightEGValue 200 1000
+
+#IntegerParameter nullMoveMargin 0 500 #=> 35
+#IntegerParameter windowSize 0 200 #=> 80
+
+#IntegerParameter razoringMargin 0 800
+#IntegerParameter razoringDepthCoeff 0 900
+
+#IntegerParameter futilityMargin 0 500
+#IntegerParameter futilityDepthCoeff 0 500
+
+#IntegerParameter staticNullMoveMargin 0 500
+#IntegerParameter staticNullMoveDepthCoeff 0 500
+
+# This could be the list of machine names in a distributed experiment.
+# In order to run 4 games in parallel, 2 on machine1, 2 on machine2&#58;
+Processor machine1
+
+# Call the script "Replications" times in a row with identical parameter values
+# Replications may be used to alternate colors, for instance.
+# Seed % Replications would indicate color.
+Replications 2
+
+# Parameters of statistical model of outcome
+# For binary outcome &#40;Win/Loss, no draws&#41;, use "DrawElo 0"
+# For chess, use "DrawElo 100"
+DrawElo 100
+
+# Regression parameters
+# H 3 is recommended &#40;it is the default value&#41;
+# Correlations may be "all" &#40;default&#41; or "none"
+# Even if variables are not correlated "all" should work well. The problem is
+# that the regression might become very costly if the number of variables is
+# high. So use "Correlations none" only if you are certain parameters are
+# independent or you have so many variables that "all" is too costly.
+H 3
+Correlations all
+

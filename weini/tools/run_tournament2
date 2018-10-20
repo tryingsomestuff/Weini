@@ -1,0 +1,20 @@
+#!/bin/bash
+
+dir=$(readlink -f $(dirname $0)/../)
+
+engines=""
+
+nb=16
+
+for i in `seq 1 $nb`; do
+   engines="$engines -engine name=$i cmd=$dir/Test/$i/weini arg=--xboard dir=$dir/Test/$i/ proto=xboard"
+done
+
+echo $engines
+
+engines="$engines -engine name=fairymax cmd=/usr/games/fairymax proto=xboard"
+
+#engines="$engines -engine name=stockfish cmd=/media/BK1/www/p/chessEngine/Stockfish/src/stockfish proto=uci"
+
+./cutechess/cutechess-cli/cutechess-cli.sh $engines -each tc=40/60 timemargin=200 -rounds 100 -pgnout pgn_$(date +"%Y_%m_%d"_%H%M%S).out -resign movecount=4 score=1050 -draw movenumber=40 movecount=3 score=60 -ratinginterval 1 -repeat -openings file=$dir/BookPgn/Silver-Suite-Large.pgn format=pgn order=random plies=24 -recover > tournament.log 2>&1 &
+

@@ -1,0 +1,69 @@
+2>    "do_internaliterativeDeepening": true,
+3>    "do_killerHeuristic": true,
+4>    "do_historyHeuristic": true,
+5>    "do_counterHeuristic": true,
+6>    "do_captureLastMovedBonus": true,
+7>    "do_futilityPruning": true,
+8>    "do_futilityPruning": false,
+ >    "do_razoring": true,
+9>    "do_razoring": false,
+ >    "do_nullMovePruning": true,
+10>   "do_verifiedNullMove": true,
+11>   "do_pvsRoot": true,
+12>   "do_pvsAlphaBeta": true,
+13>   "do_aspirationwindow": true,
+  >   "do_pvsRoot": false,
+  >   "do_pvsAlphaBeta": false,
+14>   "do_pvsRoot": true,
+  >   "do_pvsAlphaBeta": true,
+15>   "do_transpositionTableSort": true,
+16>   "do_transpositionTableQSort": true,
+17>   "do_transpositionTableEval": true,
+18>   "do_transpositionTableSearch": true,
+19>   "do_transpositionTableAlphaBeta": true,
+20>   "do_transpositionTableQuiesce": true,
+21>   "evalWithPawnStructure": true,
+22>   "evalWithPawnStructure2": true,
+23>   "do_transpositionTableEvalPawn": true,
+24>   "evalWithBadBishop": true,
+25>   "evalWithPiecePair": true,
+26>   "evalWithBlockedPiece": true,
+27>   "evalWithPawnShield": true,
+28>   "evalWithKingTroppism": true,
+29>   "evalWithSpace": true,
+30>   "evalWithCenterControl": true,
+
+Rank Name                          Elo     +/-   Games   Score   Draws
+   1 fairymax                      222      28     736   78.2%   12.6%
+   2 weini17                        92      24     738   62.9%   16.8%
+   3 weini16                        67      23     737   59.5%   21.3%
+   4 weini15                        59      22     737   58.3%   22.0%
+   5 weini20                        44      21     738   56.4%   28.2%
+   6 weini13                        42      23     737   56.0%   18.9%
+   7 weini19                        42      21     738   56.0%   28.2%
+   8 weini26                        24      22     738   53.5%   21.0%
+   9 weini24                        15      22     738   52.2%   20.3%
+  10 weini12                        13      22     736   51.9%   20.1%
+  11 weini22                        11      22     738   51.6%   23.4%
+  12 weini25                         9      22     737   51.3%   21.4%
+  13 weini23                         5      22     737   50.7%   21.7%
+  14 weini14                         3      22     736   50.5%   22.4%
+  15 weini9                          3      22     736   50.4%   22.8%
+  16 weini10                         2      22     736   50.3%   20.0%
+  17 weini27                         1      22     737   50.2%   22.0%
+  18 weini8                         -7      23     737   49.1%   18.6%
+  19 weini11                        -9      22     737   48.7%   20.4%
+  20 weini18                       -14      22     737   48.0%   20.9%
+  21 weini5                        -17      22     736   47.5%   22.4%
+  22 weini21                       -22      22     737   46.8%   24.4%
+  23 weini7                        -27      22     736   46.1%   22.8%
+  24 weini4                        -38      22     737   44.5%   22.3%
+  25 weini29                       -42      22     737   44.0%   21.8%
+  26 weini6                        -42      22     737   44.0%   22.0%
+  27 weini30                       -66      22     736   40.6%   22.7%
+  28 weini3                        -71      23     737   40.0%   18.6%
+  29 weini28                       -79      22     738   38.8%   22.9%
+  30 weini1                        -83      22     737   38.3%   22.9%
+  31 weini2                       -116      24     737   33.9%   17.1%
+
+11423 of 46500 games finished.

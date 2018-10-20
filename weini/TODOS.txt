@@ -1,0 +1,24 @@
+to do/tune
+
+* IID : ok : 0 elo  (try depth -2 instead of /2 ?)
+* verified null move
+* see in qsearch : ok : 0 elo
+* probcut (some debug done !)
+* singular extension : bof: -- elo
+* king troppism
+* use best move even if stopflag : ok : 0 elo
+* fix timeman (return to constant msecpermove with emergency) : ok
+* fix window with while and delta : ok : 0 elo
+* check bonus in sort : will lose time to validate check before pruning ...
+* score some more likeky draws (with material hash to determine end-game, material hash are ZHash of piece - not position - based on endgame string...)
+* clean and use lazy_eval
+* use enum in search : ok : 0 elo
+* make texel tuning inf/sup available directly in definition ? and use then !
+* replace searcher::display and display debug by an enum {quiet,classic,verbose,debug} : ok
+* to not predict stopflag based on EBF since a move is returned now ! : ok
+* add ttAllSize and auto division of memory used : ok
+
+
+0.0.24
+
+71c7af27f1614fcd0994e40bc32ee7637a5fb27b..master -17 Dorpsgek

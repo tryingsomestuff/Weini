@@ -1,0 +1,12 @@
+#!/bin/bash
+filename="mateIn8"
+while read -r line
+do
+   echo $line
+   ./minic -mateFinder "$line" 12 > log.mate
+   if [ $(grep -c Forced log.mate) == 0 ]; then
+      echo "mate not found"
+   else
+      echo "OK"
+   fi
+done < "$filename"

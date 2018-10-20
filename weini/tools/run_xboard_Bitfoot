@@ -1,0 +1,7 @@
+#!/bin/bash
+
+dir=$(readlink -f $(dirname $0)/../)
+
+/usr/games/xboard -fcp "$dir/bin/weini --xboard -l"  -fd "$dir" -scp "/media/BK1/www/p/chessEngine/weini/other/Bitfoot/Bitfoot-1.0.65acfcb-linux64"  -sd "/media/BK1/www/p/chessEngine/weini/other/Bitfoot" -tc 0:20 -mps 40 -sUCI
+#-debug
+

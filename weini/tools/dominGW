@@ -1,0 +1,2 @@
+x86_64-w64-mingw32-g++ src/*.cpp -Iheader -Idep -g -O3 -flto -static -static-libgcc -static-libstdc++ -std=c++11 -o bin/weini_mingw_x64.exe
+#tar cvzf weini.tar.gz WB-alien.ini winboard.exe weini.exe config.json && echo README.md | mutt -s "chess $(date)" -a weini.tar.gz -- xr_a_y@yahoo.fr

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+dir=$(readlink -f $(dirname $0)/../)
+
+/usr/games/xboard -fcp "$dir/bin/weini --xboard"  -fd "$dir" -scp "/mnt/BK1/project/chessEngine/weini/other/amundsen-0.80/amundseb"  -sd "/mnt/BK1/project/chessEngine/weini/other/amundsen-0.80" -tc 0:20 -mps 40 -ponder
+#-debug
+

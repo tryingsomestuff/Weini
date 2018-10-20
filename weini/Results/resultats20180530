@@ -1,0 +1,199 @@
+Rank Name                          Elo     +/-   Games   Score   Draws
+   1 Horizon_4_4                   267      41     361   82.3%   15.5%
+   2 weini17                        43      30     361   56.1%   29.1%
+   3 weini6                         40      31     362   55.8%   26.0%
+   4 weini8                         37      31     362   55.2%   27.1%
+   5 weini12                        32      31     361   54.6%   27.7%
+   6 weini4                         27      30     362   53.9%   29.8%
+   7 weini15                        24      30     361   53.5%   29.9%
+   8 weini10                        24      31     361   53.5%   25.5%
+   9 weini13                        21      30     361   53.0%   30.7%
+  10 weini7                         16      30     362   52.3%   29.0%
+  11 weini18                        14      30     361   52.1%   28.8%
+  12 weini3                          1      31     362   50.1%   27.3%
+  13 weini19                         0      29     361   50.0%   33.5%
+  14 weini16                       -10      30     361   48.6%   29.6%
+  15 weini5                        -23      31     362   46.7%   26.5%
+  16 weini9                        -29      29     362   45.9%   33.1%
+  17 weini2                        -46      31     361   43.4%   28.0%
+  18 weini11                       -46      31     361   43.4%   25.8%
+  19 weiniRef                      -53      31     361   42.4%   26.6%
+  20 fairymax                      -55      31     362   42.1%   25.1%
+  21 weini14                      -122      32     361   33.1%   26.3%
+  22 weini1                       -130      32     361   32.1%   27.1%
+
+Good :
+  17 deltaPruning 
+   6 seePruning
+   8 mountCountPruning
+  12 evalInCheck
+  
+Threads
+  1 -> 2 +90
+  2 -> 3 +45
+  3 -> 4 +30
+
+  
+Bad :
+  14 mobility
+  11 troppism
+   9 TT search ??? WHY ??
+   5 qfutility
+  16 centerControl
+  19 ...
+  18 verified null move
+   7 SEE alpha-beta
+   
+No idea :
+  13 10 15 storm, candidate, openfile near king
+  
+  
+
+2
+200c200
+<    "threads": 1,
+---
+>    "threads": 2,
+3
+200c200
+<    "threads": 2,
+---
+>    "threads": 3,
+4
+200c200
+<    "threads": 3,
+---
+>    "threads": 4,
+5
+162c162
+<    "do_qfutilityPruning": false,
+---
+>    "do_qfutilityPruning": true,
+6
+162c162
+<    "do_qfutilityPruning": true,
+---
+>    "do_qfutilityPruning": false,
+166c166
+<    "do_seePruning": false,
+---
+>    "do_seePruning": true,
+7
+166,167c166,167
+<    "do_seePruning": true,
+<    "do_seePruningAlphaBeta": false,
+---
+>    "do_seePruning": false,
+>    "do_seePruningAlphaBeta": true,
+8
+167c167
+<    "do_seePruningAlphaBeta": true,
+---
+>    "do_seePruningAlphaBeta": false,
+172c172
+<    "do_mountCountPruning": false,
+---
+>    "do_mountCountPruning": true,
+9
+130c130
+<    "do_transpositionTableSearch": false,
+---
+>    "do_transpositionTableSearch": true,
+172c172
+<    "do_mountCountPruning": true,
+---
+>    "do_mountCountPruning": false,
+10
+103c103
+<    "evalWithPawnStructure3": false,
+---
+>    "evalWithPawnStructure3": true,
+130c130
+<    "do_transpositionTableSearch": true,
+---
+>    "do_transpositionTableSearch": false,
+11
+98c98
+<    "evalWithKingTroppism": false,
+---
+>    "evalWithKingTroppism": true,
+103c103
+<    "evalWithPawnStructure3": true,
+---
+>    "evalWithPawnStructure3": false,
+12
+95c95
+<    "evalWithInCheck": false,
+---
+>    "evalWithInCheck": true,
+98c98
+<    "evalWithKingTroppism": true,
+---
+>    "evalWithKingTroppism": false,
+13
+95c95
+<    "evalWithInCheck": true,
+---
+>    "evalWithInCheck": false,
+111c111
+<    "evalWithPawnStorm": false,
+---
+>    "evalWithPawnStorm": true,
+14
+100c100
+<    "evalWithMobility": false,
+---
+>    "evalWithMobility": true,
+111c111
+<    "evalWithPawnStorm": true,
+---
+>    "evalWithPawnStorm": false,
+15
+100c100
+<    "evalWithMobility": true,
+---
+>    "evalWithMobility": false,
+105c105
+<    "evalWithOpenFileNearKing": false,
+---
+>    "evalWithOpenFileNearKing": true,
+16
+105c105
+<    "evalWithOpenFileNearKing": true,
+---
+>    "evalWithOpenFileNearKing": false,
+110c110
+<    "evalWithCenterControl": false,
+---
+>    "evalWithCenterControl": true,
+17
+110c110
+<    "evalWithCenterControl": true,
+---
+>    "evalWithCenterControl": false,
+168c168
+<    "do_deltaPruning": false,
+---
+>    "do_deltaPruning": true,
+18
+165c165
+<    "do_verifiedNullMove": false,
+---
+>    "do_verifiedNullMove": true,
+168c168
+<    "do_deltaPruning": true,
+---
+>    "do_deltaPruning": false,
+19
+162c162
+<    "do_qfutilityPruning": false,
+---
+>    "do_qfutilityPruning": true,
+165,167c165,167
+<    "do_verifiedNullMove": true,
+<    "do_seePruning": false,
+<    "do_seePruningAlphaBeta": false,
+---
+>    "do_verifiedNullMove": false,
+>    "do_seePruning": true,
+>    "do_seePruningAlphaBeta": true,

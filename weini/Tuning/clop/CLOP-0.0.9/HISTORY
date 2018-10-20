@@ -1,0 +1,87 @@
+2011-11-05: 0.0.9
+ - Stronger regularization (avoid overfitting in high dimensions)
+ - "Merge Replications" option in gui -> faster, better display
+ - Performance optimization of display and loading of large data files
+ - Removed "-ansi" option for Windows compilation
+ - Shrinking parameter ranges does not lose integer data any more
+ - Removed confusing columns: max-1, max-2, ...
+ - More explanations in the doc: biased win rate + GammaParameter
+
+2011-08-26: 0.0.8
+ - QLR renamed to CLOP
+ - H can be set in .clop file
+ - "Correlations none" in .clop file for independent quadratic regression
+ - Minor fixes
+
+2011-08-14: 0.0.7
+ - All convergence problems should be cured now
+ - Option to disable automatic GUI updates for fast experiments
+ - Improved detailed display of statistics
+ - New kinds of parameters: GammaParameter, IntegerGammaParameter
+ - Several minor fixes and improvements
+
+2010-06-19: 0.0.6
+ - Command-line options for qlr-console
+ - Change LocalizationHeight from 8 to 3 (better for non-quadratic functions)
+ - qlr-gui: display of sample mean and regression max when within bounds
+
+2010-06-14: 0.0.5
+ - Progress dialog when opening a file
+ - Better Gibbs-like sampling policy
+
+2010-06-12: 0.0.4
+ - Draws
+ - Replications
+
+2010-06-12: 0.0.3
+ - Better optimization algorithm: faster and more robust
+ - Integer parameters
+ - Faster loading of data files
+ - qlr-console updates estimates after each sample
+ - Optionally plot sample weights in qlr-gui
+ - Colorful Hessian and eigenvectors
+
+2010-05-24: 0.0.2
+ - Plot in GUI
+ - More statistics
+ - CSPWeight
+
+2010-05-20: 0.0.1
+ - Dynamic smoothing for the cross-entropy method
+ - Qt GUI for real experiment
+ - Windows compilation with Qt Creator
+ - .qlr file format to describe experiments
+ - More friendly GoguiScript.py
+
+2010-04-25:
+ - Fix compatibility with recent version of SWIG
+
+2010-04-14:
+ - Speed improvements.
+ - Merged CRegression and CQLR.
+ - Choice between many different kinds of linear models
+ - More verbose log of CRealExperiment
+
+2010-03-25:
+ - Adjusted CSPVOptimal so that it is a little more robust when it wants to collect too many samples on the border
+ - CPRosenbrock and more experiment scripts
+
+2010-02-19:
+ - Cubic regression works, outperforms quadratic, but not by much
+
+2010-01-18:
+ - Local quadratic regression works and outperforms UCT on CPLog1D
+
+2009-12-10:
+ - ability to plot curves of distance to optimality as a function of the number
+   of samples in artificial experiments.
+ - in CRealExperiment, when replaying a log, check that samples match the
+   sampling policy. 
+ - sentinel for clean interruption of CRealExperiment
+ - portability to cygwin and old boost
+
+2009-11-15
+ - Minor BAST improvements
+
+2009-11-11
+ - First release of an experimental version

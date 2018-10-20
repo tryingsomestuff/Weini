@@ -1,0 +1,11 @@
+#!/bin/bash
+export CC=
+export CXX=
+export WEINI_SUFFIXE="$1"
+cd $(dirname $0)/..
+rm -rf CMakeCache.txt CMakeFiles CMakeBuild bin/weini
+mkdir -p CMakeBuild
+cmake -BCMakeBuild -H.
+cd CMakeBuild
+make
+cd -
